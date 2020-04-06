@@ -1,0 +1,1761 @@
+	Country	Total_confirmed_cases_day	Total_new_cases_day	Total_deaths_day	Total_new_deaths_day	Days_after_last_reported_case_day	day
+0	China	81300	126	3253	11	0	0
+1	Republic of Korea	8652	239	94	10	0	0
+2	Japan	950	77	33	4	0	0
+3	Malaysia	900	227	2	0	0	0
+4	Australia	709	199	6	0	0	0
+5	Singapore	345	32	0	0	0	0
+6	Philippines	217	30	17	3	0	0
+7	Viet Nam	85	19	0	0	0	0
+8	Brunei Darussalam	73	17	0	0	0	0
+9	Cambodia	47	12	0	0	0	0
+10	New Zealand	39	19	0	0	0	0
+11	Mongolia	6	1	0	0	0	0
+12	Fiji	1	1	0	0	0	0
+13	Guam	12	7	0	0	0	0
+14	French Polynesia	11	8	0	0	0	0
+15	New Caledonia	2	2	0	0	0	0
+16	Italy	41035	5322	3407	429	0	0
+17	Spain	17147	3431	767	169	0	0
+18	Germany	10999	2801	20	8	0	0
+19	France	10877	1834	372	128	0	0
+20	Switzerland	3863	853	33	12	0	0
+21	The United Kingdom	3277	647	144	41	0	0
+22	Netherlands	2460	409	76	18	0	0
+23	Austria	1843	197	5	1	0	0
+24	Belgium	1795	309	14	0	0	0
+25	Norway	1552	129	6	3	0	0
+26	Sweden	1423	144	3	0	0	0
+27	Denmark	1132	88	6	2	0	0
+28	Portugal	785	143	3	1	0	0
+29	Czechia	694	172	0	0	0	0
+30	Ireland	557	265	3	1	0	0
+31	Israel	529	102	0	0	0	0
+32	Greece	418	0	5	0	1	0
+33	Finland	369	10	0	0	0	0
+34	Luxembourg	345	135	4	2	0	0
+35	Iceland	330	80	0	0	0	0
+36	Poland	325	38	5	0	0	0
+37	Slovenia	319	33	1	0	0	0
+38	Estonia	267	9	0	0	0	0
+39	Romania	260	14	0	0	0	0
+40	Russian Federation	199	52	0	0	0	0
+41	Turkey	191	0	2	0	1	0
+42	San Marino	126	17	14	0	0	0
+43	Serbia††	123	41	0	0	0	0
+0	Armenia	122	38.0	0.0	0.0	0.0	0
+1	Bulgaria	94	2.0	3.0	1.0	0.0	0
+2	Latvia	86	15.0	0.0	0.0	0.0	0
+3	Croatia	81	0.0	0.0	0.0	1.0	0
+4	Hungary	73	15.0	1.0	0.0	0.0	0
+5	Albania	70	11.0	2.0	0.0	0.0	0
+6	Cyprus	58	0.0	0.0	0.0	1.0	0
+7	Malta	53	5.0	0.0	0.0	0.0	0
+8	Republic of Moldova	49	13.0	0.0	0.0	0.0	0
+9	North Macedonia	48	17.0	0.0	0.0	0.0	0
+10	Belarus	46	0.0	0.0	0.0	1.0	0
+11	Kazakhstan	46	10.0	0.0	0.0	0.0	0
+12	"Bosnia andHerzegovina"	44	8.0	0.0	0.0	0.0	0
+13	Georgia	38	4.0	0.0	0.0	0.0	0
+14	Lithuania	36	10.0	0.0	0.0	0.0	0
+15	Azerbaijan	34	0.0	1.0	0.0	1.0	0
+16	Liechtenstein	25	0.0	0.0	0.0	1.0	0
+17	Uzbekistan	21	5.0	0.0	0.0	0.0	0
+18	Ukraine	16	0.0	2.0	0.0	1.0	0
+19	Montenegro	10	8.0	0.0	0.0	0.0	0
+20	Monaco	9	0.0	0.0	0.0	3.0	0
+21	Kyrgyzstan	3	0.0	0.0	0.0	1.0	0
+22	Holy See	1	0.0	0.0	0.0	13.0	0
+23	Andorra	75	36.0	0.0	0.0	0.0	0
+24	Faroe Islands	72	14.0	0.0	0.0	0.0	0
+25	Gibraltar	10	2.0	0.0	0.0	0.0	0
+26	Jersey	5	0.0	0.0	0.0	2.0	0
+27	Greenland	2	0.0	0.0	0.0	1.0	0
+28	Guernsey	1	0.0	0.0	0.0	10.0	0
+29	Thailand	322	110.0	1.0	0.0	0.0	0
+30	Indonesia	309	82.0	25.0	6.0	0.0	0
+31	India	195	44.0	4.0	1.0	0.0	0
+32	Sri Lanka	59	17.0	0.0	0.0	0.0	0
+33	Bangladesh	17	7.0	1.0	1.0	0.0	0
+34	Maldives	13	0.0	0.0	0.0	4.0	0
+35	Bhutan	2	1.0	0.0	0.0	0.0	0
+36	Nepal	1	0.0	0.0	0.0	56.0	0
+37	"Iran (Islamic Republicof)"	18407	1046.0	1284.0	149.0	0.0	0
+38	Qatar	452	10.0	0.0	0.0	0.0	0
+39	Pakistan	302	61.0	2.0	2.0	0.0	0
+40	Bahrain	269	13.0	1.0	0.0	0.0	0
+41	Saudi Arabia	238	0.0	0.0	0.0	1.0	0
+42	Egypt	210	14.0	6.0	0.0	0.0	0
+43	Iraq	177	13.0	12.0	0.0	0.0	0
+44	Lebanon	149	29.0	4.0	0.0	0.0	0
+45	Kuwait	148	6.0	0.0	0.0	0.0	0
+46	United Arab Emirates	140	27.0	0.0	0.0	0.0	0
+47	Morocco	61	12.0	2.0	0.0	0.0	0
+0	Oman	39	6.0	0.0	0.0	0.0	0
+1	Tunisia	39	10.0	0.0	0.0	0.0	0
+2	Afghanistan	22	0.0	0.0	0.0	2.0	0
+3	Djibouti	1	0.0	0.0	0.0	1.0	0
+4	Somalia	1	0.0	0.0	0.0	3.0	0
+5	Sudan	1	0.0	1.0	0.0	5.0	0
+6	"occupied Palestinianterritory"	47	3.0	0.0	0.0	0.0	0
+7	"United States ofAmerica"	10442	3355.0	150.0	50.0	0.0	0
+8	Canada	736	167.0	9.0	0.0	0.0	0
+9	Brazil	428	137.0	4.0	3.0	0.0	0
+10	Chile	342	104.0	0.0	0.0	0.0	0
+11	Peru	234	89.0	0.0	0.0	0.0	0
+12	Ecuador	199	44.0	3.0	1.0	0.0	0
+13	Mexico	118	25.0	1.0	1.0	0.0	0
+14	Panama	109	23.0	1.0	0.0	0.0	0
+15	Colombia	108	15.0	0.0	0.0	0.0	0
+16	Argentina	97	0.0	2.0	0.0	1.0	0
+17	Costa Rica	87	37.0	1.0	0.0	0.0	0
+18	Uruguay	79	50.0	0.0	0.0	0.0	0
+19	"Venezuela (BolivarianRepublic of)"	36	0.0	0.0	0.0	1.0	0
+20	Dominican Republic	34	13.0	2.0	1.0	0.0	0
+21	"Bolivia (PlurinationalState of)"	15	3.0	0.0	0.0	0.0	0
+22	Jamaica	15	2.0	1.0	1.0	0.0	0
+23	Honduras	12	3.0	0.0	0.0	0.0	0
+24	Cuba	11	1.0	1.0	0.0	0.0	0
+25	Paraguay	11	0.0	0.0	0.0	1.0	0
+26	Guatemala	9	3.0	1.0	0.0	0.0	0
+27	Trinidad and Tobago	9	2.0	0.0	0.0	0.0	0
+28	Guyana	5	0.0	1.0	0.0	1.0	0
+29	Bahamas	3	0.0	0.0	0.0	1.0	0
+30	Barbados	2	0.0	0.0	0.0	1.0	0
+31	Bermuda	2	0.0	0.0	0.0	1.0	0
+32	Saint Lucia	2	0.0	0.0	0.0	4.0	0
+33	Antigua and Barbuda	1	0.0	0.0	0.0	6.0	0
+34	El Salvador	1	1.0	0.0	0.0	0.0	0
+35	Montserrat	1	0.0	0.0	0.0	1.0	0
+36	Nicaragua	1	1.0	0.0	0.0	0.0	0
+37	Suriname	1	0.0	0.0	0.0	4.0	0
+38	"Saint Vincent and theGrenadines"	1	0.0	0.0	0.0	6.0	0
+39	Guadeloupe	45	12.0	0.0	0.0	0.0	0
+40	Martinique	32	9.0	0.0	0.0	0.0	0
+41	French Guiana	15	4.0	0.0	0.0	0.0	0
+42	Puerto Rico	6	1.0	0.0	0.0	0.0	0
+43	Aruba	5	1.0	0.0	0.0	0.0	0
+44	Saint Martin	4	0.0	0.0	0.0	1.0	0
+0	China	81416	116	3261	8	0	1
+1	Republic of Korea	8799	147	102	8	0	1
+2	Malaysia	1030	130	3	1	0	1
+3	Japan	996	46	35	2	0	1
+4	Australia	873	164	7	1	0	1
+5	Singapore	385	40	0	0	0	1
+6	Philippines	230	13	18	1	0	1
+7	Viet Nam	91	6	0	0	0	1
+8	Brunei Darussalam	78	5	0	0	0	1
+9	New Zealand	53	14	0	0	0	1
+10	Cambodia	51	4	0	0	0	1
+11	Mongolia	6	0	0	0	1	1
+12	Fiji	1	0	0	0	1	1
+13	Papua New Guinea	1	1	0	0	0	1
+14	Guam	14	2	0	0	0	1
+15	French Polynesia	11	0	0	0	1	1
+16	New Caledonia	2	0	0	0	1	1
+17	Italy	47021	5986	4032	625	0	1
+18	Spain	19980	2833	1002	235	0	1
+19	Germany	18323	7324	45	25	0	1
+20	France	12475	1598	450	78	0	1
+21	Switzerland	4840	977	43	10	0	1
+22	The United Kingdom	3983	706	177	33	0	1
+23	Netherlands	2994	534	106	30	0	1
+24	Austria	2649	806	6	1	0	1
+25	Belgium	2257	462	37	23	0	1
+26	Norway	1742	190	7	1	0	1
+27	Sweden	1623	200	16	13	0	1
+28	Denmark	1255	123	9	3	0	1
+29	Portugal	1020	235	6	3	0	1
+30	Czechia	904	210	0	0	0	1
+31	Israel	712	183	1	1	0	1
+32	Ireland	683	126	3	0	0	1
+33	Turkey	670	479	9	7	0	1
+34	Greece	495	77	8	3	0	1
+35	Luxembourg	484	139	5	1	0	1
+36	Finland	450	81	0	0	0	1
+37	Poland	425	100	5	0	0	1
+38	Iceland	409	79	1	1	0	1
+39	Slovenia	341	22	1	0	0	1
+40	Romania	308	48	0	0	0	1
+41	Estonia	283	16	0	0	0	1
+42	Russian Federation	253	54	0	0	0	1
+0	Slovakia	137	14.0	0.0	0.0	0.0	1
+1	Armenia	136	14.0	0.0	0.0	0.0	1
+2	Serbia††	135	12.0	1.0	1.0	0.0	1
+3	Bulgaria	127	33.0	3.0	0.0	0.0	1
+4	Croatia	126	45.0	0.0	0.0	0.0	1
+5	Latvia	111	25.0	0.0	0.0	0.0	1
+6	Hungary	85	12.0	4.0	3.0	0.0	1
+7	Andorra	75	0.0	0.0	0.0	1.0	1
+8	Albania	70	0.0	2.0	0.0	1.0	1
+9	North Macedonia	70	22.0	0.0	0.0	0.0	1
+10	Lithuania	69	33.0	1.0	1.0	0.0	1
+11	Cyprus	67	9.0	0.0	0.0	0.0	1
+12	Republic of Moldova	66	17.0	1.0	1.0	0.0	1
+13	Malta	64	11.0	0.0	0.0	0.0	1
+14	Belarus	57	11.0	0.0	0.0	0.0	1
+15	Kazakhstan	53	7.0	0.0	0.0	0.0	1
+16	Azerbaijan	44	10.0	1.0	0.0	0.0	1
+17	"Bosnia andHerzegovina"	44	0.0	0.0	0.0	1.0	1
+18	Georgia	43	5.0	0.0	0.0	0.0	1
+19	Liechtenstein	34	9.0	0.0	0.0	0.0	1
+20	Uzbekistan	33	12.0	0.0	0.0	0.0	1
+21	Ukraine	26	10.0	3.0	1.0	0.0	1
+22	Montenegro	14	4.0	0.0	0.0	0.0	1
+23	Monaco	12	3.0	0.0	0.0	0.0	1
+24	Kyrgyzstan	6	3.0	0.0	0.0	0.0	1
+25	Holy See	1	0.0	0.0	0.0	14.0	1
+26	Faroe Islands	80	8.0	0.0	0.0	0.0	1
+27	Jersey	12	7.0	0.0	0.0	0.0	1
+28	Gibraltar	10	0.0	0.0	0.0	1.0	1
+29	Greenland	2	0.0	0.0	0.0	2.0	1
+30	Guernsey	1	0.0	0.0	0.0	11.0	1
+31	Isle of Man	1	1.0	0.0	0.0	0.0	1
+32	Indonesia	369	60.0	32.0	7.0	0.0	1
+33	Thailand	322	0.0	1.0	0.0	1.0	1
+34	India	195	0.0	4.0	0.0	1.0	1
+35	Sri Lanka	59	0.0	0.0	0.0	1.0	1
+36	Bangladesh	17	0.0	1.0	0.0	1.0	1
+37	Maldives	13	0.0	0.0	0.0	5.0	1
+38	Bhutan	2	0.0	0.0	0.0	1.0	1
+39	Nepal	1	0.0	0.0	0.0	57.0	1
+40	Timor-Leste	1	1.0	0.0	0.0	0.0	1
+41	"Iran (Islamic Republicof)"	19644	1237.0	1433.0	149.0	0.0	1
+42	Pakistan	461	159.0	2.0	0.0	0.0	1
+43	Qatar	460	8.0	0.0	0.0	0.0	1
+44	Bahrain	285	16.0	1.0	0.0	0.0	1
+45	Saudi Arabia	274	36.0	0.0	0.0	0.0	1
+46	Egypt	256	46.0	7.0	1.0	0.0	1
+47	Iraq	193	16.0	14.0	2.0	0.0	1
+0	Kuwait	159	11.0	0.0	0.0	0.0	1
+1	United Arab Emirates	140	0.0	0.0	0.0	1.0	1
+2	Morocco	74	13.0	3.0	1.0	0.0	1
+3	Jordan	69	13.0	0.0	0.0	0.0	1
+4	Tunisia	54	15.0	1.0	1.0	0.0	1
+5	Oman	48	9.0	0.0	0.0	0.0	1
+6	Afghanistan	24	2.0	0.0	0.0	0.0	1
+7	Djibouti	1	0.0	0.0	0.0	2.0	1
+8	Somalia	1	0.0	0.0	0.0	4.0	1
+9	Sudan	1	0.0	1.0	0.0	6.0	1
+10	"occupied Palestinianterritory"	48	1.0	0.0	0.0	0.0	1
+11	"United States ofAmerica"	15219	4777.0	201.0	51.0	0.0	1
+12	Canada	846	110.0	9.0	0.0	0.0	1
+13	Brazil	621	193.0	4.0	0.0	0.0	1
+14	Chile	434	92.0	0.0	0.0	0.0	1
+15	Ecuador	367	168.0	5.0	2.0	0.0	1
+16	Peru	234	0.0	2.0	2.0	1.0	1
+17	Mexico	164	46.0	1.0	0.0	0.0	1
+18	Colombia	145	37.0	0.0	0.0	0.0	1
+19	Panama	137	28.0	1.0	0.0	0.0	1
+20	Argentina	128	31.0	3.0	1.0	0.0	1
+21	Costa Rica	113	26.0	2.0	1.0	0.0	1
+22	Uruguay	94	15.0	0.0	0.0	0.0	1
+23	Dominican Republic	72	38.0	2.0	0.0	0.0	1
+24	"Venezuela (BolivarianRepublic of)"	36	0.0	0.0	0.0	2.0	1
+25	Honduras	24	12.0	0.0	0.0	0.0	1
+26	"Bolivia (PlurinationalState of)"	16	1.0	0.0	0.0	0.0	1
+27	Cuba	16	5.0	1.0	0.0	0.0	1
+28	Jamaica	16	1.0	1.0	0.0	0.0	1
+29	Paraguay	13	2.0	0.0	0.0	0.0	1
+30	Guatemala	12	3.0	1.0	0.0	0.0	1
+31	Trinidad and Tobago	9	0.0	0.0	0.0	1.0	1
+32	Barbados	5	3.0	0.0	0.0	0.0	1
+33	Guyana	5	0.0	1.0	0.0	2.0	1
+34	Bahamas	4	1.0	0.0	0.0	0.0	1
+35	Haiti	2	2.0	0.0	0.0	0.0	1
+36	Saint Lucia	2	0.0	0.0	0.0	5.0	1
+37	Suriname	2	1.0	0.0	0.0	0.0	1
+38	Antigua and Barbuda	1	0.0	0.0	0.0	7.0	1
+39	El Salvador	1	0.0	0.0	0.0	1.0	1
+40	Nicaragua	1	0.0	0.0	0.0	1.0	1
+41	"Saint Vincent and theGrenadines"	1	0.0	0.0	0.0	7.0	1
+42	Guadeloupe	51	6.0	0.0	0.0	0.0	1
+43	Martinique	32	0.0	0.0	0.0	1.0	1
+44	French Guiana	15	0.0	0.0	0.0	1.0	1
+0	China	81498	82	3267	6	0	2
+1	Republic of Korea	8897	98	104	2	0	2
+2	Malaysia	1183	153	3	0	0	2
+3	Australia	1081	208	7	0	0	2
+4	Japan	1046	50	36	1	0	2
+5	Singapore	432	47	2	2	0	2
+6	Philippines	307	77	19	1	0	2
+7	Viet Nam	94	3	0	0	0	2
+8	Brunei Darussalam	83	5	0	0	0	2
+9	New Zealand	66	13	0	0	0	2
+10	Cambodia	53	2	0	0	0	2
+11	Mongolia	10	4	0	0	0	2
+12	Fiji	2	1	0	0	0	2
+13	Papua New Guinea	1	0	0	0	1	2
+14	French Polynesia	15	4	0	0	0	2
+15	Guam	15	1	0	0	0	2
+16	New Caledonia	4	2	0	0	0	2
+17	Italy	53578	6557	4827	795	0	2
+18	Spain	24926	4946	1326	324	0	2
+19	Germany	21463	3140	67	22	0	2
+20	France	14296	1821	562	112	0	2
+21	Switzerland	6077	1237	56	13	0	2
+22	The United Kingdom	5018	1035	233	56	0	2
+23	Netherlands	3631	637	136	30	0	2
+24	Austria	3024	375	8	2	0	2
+25	Belgium	2815	558	67	30	0	2
+26	Norway	1926	184	7	0	0	2
+27	Sweden	1746	123	20	4	0	2
+28	Denmark	1326	71	13	4	0	2
+29	Portugal	1280	260	12	6	0	2
+30	Czechia	995	91	0	0	0	2
+31	Turkey	947	277	21	12	0	2
+32	Israel	883	171	1	0	0	2
+33	Ireland	785	102	3	0	0	2
+34	Luxembourg	670	186	8	3	0	2
+35	Poland	536	111	5	0	0	2
+36	Greece	530	35	13	5	0	2
+37	Finland	521	71	1	1	0	2
+38	Iceland	473	64	1	0	0	2
+39	Slovenia	383	42	1	0	0	2
+40	Romania	367	59	0	0	0	2
+41	Estonia	306	23	0	0	0	2
+42	Russian Federation	306	53	0	0	0	2
+43	Croatia	206	80	0	0	0	2
+0	Serbia††	173	38.0	1.0	0.0	0.0	2
+1	Bulgaria	163	36.0	3.0	0.0	0.0	2
+2	Armenia	160	24.0	0.0	0.0	0.0	2
+3	San Marino	151	0.0	20.0	6.0	1.0	2
+4	Hungary	131	46.0	4.0	0.0	0.0	2
+5	Latvia	124	13.0	0.0	0.0	0.0	2
+6	Lithuania	105	36.0	1.0	0.0	0.0	2
+7	"Bosnia andHerzegovina"	92	48.0	1.0	1.0	0.0	2
+8	Andorra	88	13.0	0.0	0.0	0.0	2
+9	North Macedonia	85	15.0	0.0	0.0	0.0	2
+10	Cyprus	84	17.0	0.0	0.0	0.0	2
+11	Republic of Moldova	80	14.0	1.0	0.0	0.0	2
+12	Albania	76	6.0	2.0	0.0	0.0	2
+13	Belarus	76	19.0	0.0	0.0	0.0	2
+14	Malta	73	9.0	0.0	0.0	0.0	2
+15	Kazakhstan	56	3.0	0.0	0.0	0.0	2
+16	Azerbaijan	53	9.0	1.0	0.0	0.0	2
+17	Georgia	49	6.0	0.0	0.0	0.0	2
+18	Ukraine	47	21.0	3.0	0.0	0.0	2
+19	Liechtenstein	36	2.0	0.0	0.0	0.0	2
+20	Uzbekistan	33	0.0	0.0	0.0	1.0	2
+21	Monaco	18	6.0	0.0	0.0	0.0	2
+22	Kyrgyzstan	14	8.0	0.0	0.0	0.0	2
+23	Montenegro	14	0.0	0.0	0.0	1.0	2
+24	Holy See	1	0.0	0.0	0.0	15.0	2
+25	Faroe Islands	92	12.0	0.0	0.0	0.0	2
+26	Jersey	12	0.0	0.0	0.0	1.0	2
+27	Gibraltar	10	0.0	0.0	0.0	2.0	2
+28	Greenland	2	0.0	0.0	0.0	3.0	2
+29	Isle of Man	2	1.0	0.0	0.0	0.0	2
+30	Guernsey	1	0.0	0.0	0.0	12.0	2
+31	Indonesia	450	81.0	38.0	6.0	0.0	2
+32	Thailand	411	89.0	1.0	0.0	0.0	2
+33	India	283	88.0	4.0	0.0	0.0	2
+34	Sri Lanka	72	13.0	0.0	0.0	0.0	2
+35	Bangladesh	24	7.0	2.0	1.0	0.0	2
+36	Maldives	13	0.0	0.0	0.0	6.0	2
+37	Bhutan	2	0.0	0.0	0.0	2.0	2
+38	Nepal	1	0.0	0.0	0.0	58.0	2
+39	Timor-Leste	1	0.0	0.0	0.0	1.0	2
+40	"Iran (Islamic Republicof)"	20610	966.0	1556.0	123.0	0.0	2
+41	Pakistan	495	34.0	3.0	1.0	0.0	2
+42	Qatar	470	10.0	0.0	0.0	0.0	2
+43	Saudi Arabia	392	118.0	0.0	0.0	0.0	2
+44	Bahrain	306	21.0	1.0	0.0	0.0	2
+45	Egypt	285	29.0	8.0	1.0	0.0	2
+46	Iraq	214	21.0	17.0	3.0	0.0	2
+47	Lebanon	206	43.0	4.0	0.0	0.0	2
+0	United Arab Emirates	153	13.0	2.0	2.0	0.0	2
+1	Morocco	86	12.0	3.0	0.0	0.0	2
+2	Jordan	84	15.0	0.0	0.0	0.0	2
+3	Tunisia	60	6.0	1.0	0.0	0.0	2
+4	Oman	52	4.0	0.0	0.0	0.0	2
+5	Afghanistan	24	0.0	0.0	0.0	1.0	2
+6	Sudan	2	1.0	1.0	0.0	0.0	2
+7	Djibouti	1	0.0	0.0	0.0	3.0	2
+8	Somalia	1	0.0	0.0	0.0	5.0	2
+9	"occupied Palestinianterritory"	52	4.0	0.0	0.0	0.0	2
+10	"United States ofAmerica"	15219	0.0	201.0	0.0	1.0	2
+11	Canada	1048	202.0	13.0	4.0	0.0	2
+12	Brazil	904	283.0	11.0	7.0	0.0	2
+13	Ecuador	506	139.0	7.0	2.0	0.0	2
+14	Chile	434	0.0	1.0	1.0	1.0	2
+15	Peru	318	84.0	2.0	0.0	0.0	2
+16	Colombia	196	51.0	0.0	0.0	0.0	2
+17	Mexico	164	0.0	1.0	0.0	1.0	2
+18	Argentina	158	30.0	3.0	0.0	0.0	2
+19	Panama	137	0.0	1.0	0.0	1.0	2
+20	Costa Rica	113	0.0	2.0	0.0	1.0	2
+21	Uruguay	94	0.0	0.0	0.0	1.0	2
+22	Dominican Republic	72	0.0	2.0	0.0	1.0	2
+23	"Venezuela (BolivarianRepublic of)"	36	0.0	0.0	0.0	3.0	2
+24	Honduras	24	0.0	0.0	0.0	1.0	2
+25	"Bolivia (PlurinationalState of)"	19	3.0	0.0	0.0	0.0	2
+26	Paraguay	18	5.0	1.0	1.0	0.0	2
+27	Cuba	16	0.0	1.0	0.0	1.0	2
+28	Jamaica	16	0.0	1.0	0.0	1.0	2
+29	Guatemala	12	0.0	1.0	0.0	1.0	2
+30	Trinidad and Tobago	9	0.0	0.0	0.0	2.0	2
+31	Barbados	5	0.0	0.0	0.0	1.0	2
+32	Guyana	5	0.0	1.0	0.0	3.0	2
+33	Bahamas	4	0.0	0.0	0.0	1.0	2
+34	Haiti	2	0.0	0.0	0.0	1.0	2
+35	Nicaragua	2	1.0	0.0	0.0	0.0	2
+36	Saint Lucia	2	0.0	0.0	0.0	6.0	2
+37	Suriname	2	0.0	0.0	0.0	1.0	2
+38	Antigua and Barbuda	1	0.0	0.0	0.0	8.0	2
+39	El Salvador	1	0.0	0.0	0.0	2.0	2
+40	"Saint Vincent and theGrenadines"	1	0.0	0.0	0.0	8.0	2
+41	Guadeloupe	51	0.0	0.0	0.0	1.0	2
+42	Martinique	32	0.0	0.0	0.0	2.0	2
+43	Puerto Rico	21	7.0	1.0	1.0	0.0	2
+44	French Guiana	15	0.0	0.0	0.0	2.0	2
+0	China	81601	103	3276	9	0	3
+1	Republic of Korea	8961	64	111	7	0	3
+2	Australia	1396	315	7	0	0	3
+3	Malaysia	1306	123	10	7	0	3
+4	Japan	1089	43	41	5	0	3
+5	Singapore	455	23	2	0	0	3
+6	Philippines	380	73	25	6	0	3
+7	Viet Nam	113	19	0	0	0	3
+8	New Zealand	102	36	0	0	0	3
+9	Brunei Darussalam	88	5	0	0	0	3
+10	Cambodia	84	31	0	0	0	3
+11	Mongolia	10	0	0	0	1	3
+12	Fiji	2	0	0	0	1	3
+13	Papua New Guinea	1	0	0	0	2	3
+14	Guam	27	12	1	1	0	3
+15	French Polynesia	17	2	0	0	0	3
+16	New Caledonia	5	1	0	0	0	3
+17	Italy	59138	5560	5476	649	0	3
+18	Spain	28572	3646	1720	394	0	3
+19	Germany	24774	3311	94	27	0	3
+20	France	15821	1525	674	112	0	3
+21	Switzerland	6971	894	60	4	0	3
+22	The United Kingdom	5687	669	281	48	0	3
+23	Netherlands	4204	573	179	43	0	3
+24	Austria	3631	607	16	8	0	3
+25	Belgium	3401	586	75	8	0	3
+26	Norway	2132	206	7	0	0	3
+27	Sweden	1906	160	21	1	0	3
+28	Portugal	1600	320	14	2	0	3
+29	Denmark	1395	69	13	0	0	3
+30	Turkey	1236	289	30	9	0	3
+31	Czechia	1165	170	1	1	0	3
+32	Israel	1071	188	1	0	0	3
+33	Ireland	906	121	4	1	0	3
+34	Luxembourg	798	128	8	0	0	3
+35	Poland	634	98	7	2	0	3
+36	Finland	626	105	1	0	0	3
+37	Greece	624	94	15	2	0	3
+38	Iceland	568	95	1	0	0	3
+39	Russian Federation	438	132	0	0	0	3
+40	Romania	433	66	2	2	0	3
+41	Slovenia	414	31	1	0	0	3
+42	Estonia	326	20	0	0	0	3
+43	Croatia	235	29	0	0	0	3
+0	Armenia	190	30.0	0.0	0.0	0.0	3
+1	Bulgaria	185	22.0	3.0	0.0	0.0	3
+2	Slovakia	185	7.0	0.0	0.0	0.0	3
+3	Hungary	167	36.0	7.0	3.0	0.0	3
+4	San Marino	151	0.0	20.0	0.0	2.0	3
+5	Lithuania	143	38.0	1.0	0.0	0.0	3
+6	Latvia	139	15.0	0.0	0.0	0.0	3
+7	"Bosnia andHerzegovina"	125	33.0	1.0	0.0	0.0	3
+8	North Macedonia	114	29.0	1.0	1.0	0.0	3
+9	Andorra	113	25.0	0.0	0.0	0.0	3
+10	Cyprus	95	11.0	0.0	0.0	0.0	3
+11	Republic of Moldova	94	14.0	1.0	0.0	0.0	3
+12	Malta	90	17.0	0.0	0.0	0.0	3
+13	Albania	89	13.0	2.0	0.0	0.0	3
+14	Belarus	76	0.0	0.0	0.0	1.0	3
+15	Azerbaijan	65	12.0	1.0	0.0	0.0	3
+16	Kazakhstan	60	4.0	0.0	0.0	0.0	3
+17	Georgia	54	5.0	0.0	0.0	0.0	3
+18	Ukraine	47	0.0	3.0	0.0	1.0	3
+19	Liechtenstein	46	10.0	0.0	0.0	0.0	3
+20	Uzbekistan	46	13.0	0.0	0.0	0.0	3
+21	Monaco	23	5.0	0.0	0.0	0.0	3
+22	Montenegro	21	7.0	0.0	0.0	0.0	3
+23	Kyrgyzstan	14	0.0	0.0	0.0	1.0	3
+24	Holy See	1	0.0	0.0	0.0	16.0	3
+25	Faroe Islands	115	23.0	0.0	0.0	0.0	3
+26	Kosovo[1]	31	7.0	1.0	1.0	0.0	3
+27	Guernsey	17	16.0	0.0	0.0	0.0	3
+28	Gibraltar	15	5.0	0.0	0.0	0.0	3
+29	Jersey	15	3.0	0.0	0.0	0.0	3
+30	Greenland	2	0.0	0.0	0.0	4.0	3
+31	Isle of Man	2	0.0	0.0	0.0	1.0	3
+32	Thailand	721	310.0	1.0	0.0	0.0	3
+33	Indonesia	514	64.0	48.0	10.0	0.0	3
+34	India	415	132.0	7.0	3.0	0.0	3
+35	Sri Lanka	82	10.0	0.0	0.0	0.0	3
+36	Bangladesh	27	3.0	2.0	0.0	0.0	3
+37	Maldives	13	0.0	0.0	0.0	7.0	3
+38	Bhutan	2	0.0	0.0	0.0	3.0	3
+39	Nepal	1	0.0	0.0	0.0	59.0	3
+40	Timor-Leste	1	0.0	0.0	0.0	2.0	3
+41	"Iran (Islamic Republicof)"	21638	1028.0	1685.0	129.0	0.0	3
+42	Pakistan	784	289.0	5.0	2.0	0.0	3
+43	Saudi Arabia	511	119.0	0.0	0.0	0.0	3
+44	Qatar	494	24.0	0.0	0.0	0.0	3
+45	Bahrain	337	31.0	2.0	1.0	0.0	3
+46	Egypt	327	42.0	14.0	6.0	0.0	3
+47	Lebanon	248	42.0	4.0	0.0	0.0	3
+0	Kuwait	189	13.0	0.0	0.0	0.0	3
+1	United Arab Emirates	153	0.0	2.0	0.0	1.0	3
+2	Morocco	115	29.0	4.0	1.0	0.0	3
+3	Jordan	112	28.0	0.0	0.0	0.0	3
+4	Tunisia	75	15.0	3.0	2.0	0.0	3
+5	Oman	55	3.0	0.0	0.0	0.0	3
+6	Afghanistan	40	16.0	1.0	1.0	0.0	3
+7	Sudan	2	0.0	1.0	0.0	1.0	3
+8	Djibouti	1	0.0	0.0	0.0	5.0	3
+9	Somalia	1	0.0	0.0	0.0	6.0	3
+10	Syrian Arab Republic	1	1.0	0.0	0.0	0.0	3
+11	"occupied Palestinianterritory"	59	7.0	0.0	0.0	0.0	3
+12	"United States ofAmerica"	31573	16354.0	402.0	201.0	0.0	3
+13	Canada	1384	336.0	19.0	6.0	0.0	3
+14	Brazil	904	0.0	11.0	0.0	1.0	3
+15	Chile	632	198.0	1.0	0.0	0.0	3
+16	Ecuador	532	26.0	7.0	0.0	0.0	3
+17	Peru	318	0.0	2.0	0.0	1.0	3
+18	Mexico	251	87.0	2.0	1.0	0.0	3
+19	Panama	245	108.0	3.0	2.0	0.0	3
+20	Argentina	225	67.0	4.0	1.0	0.0	3
+21	Colombia	196	0.0	2.0	2.0	1.0	3
+22	Uruguay	135	41.0	0.0	0.0	0.0	3
+23	Costa Rica	117	4.0	2.0	0.0	0.0	3
+24	Dominican Republic	72	0.0	2.0	0.0	2.0	3
+25	"Venezuela (BolivarianRepublic of)"	70	34.0	0.0	0.0	0.0	3
+26	Trinidad and Tobago	50	41.0	0.0	0.0	0.0	3
+27	Honduras	26	2.0	0.0	0.0	0.0	3
+28	"Bolivia (PlurinationalState of)"	24	5.0	0.0	0.0	0.0	3
+29	Paraguay	22	4.0	1.0	0.0	0.0	3
+30	Jamaica	19	3.0	1.0	0.0	0.0	3
+31	Guatemala	18	6.0	1.0	0.0	0.0	3
+32	Cuba	16	0.0	1.0	0.0	2.0	3
+33	Barbados	5	0.0	0.0	0.0	2.0	3
+34	Guyana	5	0.0	1.0	0.0	4.0	3
+35	Bahamas	4	0.0	0.0	0.0	2.0	3
+36	Haiti	2	0.0	0.0	0.0	2.0	3
+37	Nicaragua	2	0.0	0.0	0.0	1.0	3
+38	Saint Lucia	2	0.0	0.0	0.0	7.0	3
+39	Suriname	2	0.0	0.0	0.0	2.0	3
+40	Antigua and Barbuda	1	0.0	0.0	0.0	9.0	3
+41	El Salvador	1	0.0	0.0	0.0	3.0	3
+42	Grenada	1	1.0	0.0	0.0	0.0	3
+43	"Saint Vincent and theGrenadines"	1	0.0	0.0	0.0	10.0	3
+44	Guadeloupe	56	5.0	0.0	0.0	0.0	3
+0	China	81747	146	3283	7	0	4
+1	Republic of Korea	9037	76	120	9	0	4
+2	Australia	1709	313	7	0	0	4
+3	Malaysia	1518	212	14	4	0	4
+4	Japan	1128	39	42	1	0	4
+5	Singapore	507	52	2	0	0	4
+6	Philippines	462	82	33	8	0	4
+7	Viet Nam	123	10	0	0	0	4
+8	New Zealand	102	0	0	0	1	4
+9	Brunei Darussalam	91	3	0	0	0	4
+10	Cambodia	87	3	0	0	0	4
+11	Mongolia	10	0	0	0	2	4
+12	Fiji	3	1	0	0	0	4
+13	Papua New Guinea	1	0	0	0	3	4
+14	Guam	29	2	1	0	0	4
+15	French Polynesia	18	1	0	0	0	4
+16	New Caledonia	8	3	0	0	0	4
+17	Italy	63927	4789	6077	601	0	4
+18	Spain	33089	4517	2182	462	0	4
+19	Germany	29212	4438	126	32	0	4
+20	France	19615	3794	860	186	0	4
+21	Switzerland	8015	1044	66	6	0	4
+22	The United Kingdom	6654	967	335	54	0	4
+23	Netherlands	4749	545	213	34	0	4
+24	Austria	4486	855	25	9	0	4
+25	Belgium	3743	342	88	13	0	4
+26	Norway	2371	239	8	1	0	4
+27	Portugal	2060	460	23	9	0	4
+28	Sweden	2016	110	25	4	0	4
+29	Turkey	1529	293	37	7	0	4
+30	Denmark	1460	65	24	11	0	4
+31	Israel	1238	167	1	0	0	4
+32	Czechia	1236	71	1	0	0	4
+33	Ireland	1125	219	6	2	0	4
+34	Luxembourg	875	77	8	0	0	4
+35	Poland	749	115	8	1	0	4
+36	Finland	700	74	1	0	0	4
+37	Greece	695	71	17	2	0	4
+38	Iceland	588	20	2	1	0	4
+39	Romania	576	143	7	5	0	4
+40	Slovenia	442	28	1	0	0	4
+41	Russian Federation	438	0	0	0	1	4
+42	Estonia	352	26	0	0	0	4
+43	Croatia	306	71	0	0	0	4
+0	Armenia	235	45.0	0.0	0.0	0.0	4
+1	Bulgaria	201	16.0	3.0	0.0	0.0	4
+2	Slovakia	191	6.0	0.0	0.0	0.0	4
+3	Hungary	187	20.0	8.0	1.0	0.0	4
+4	San Marino	187	36.0	20.0	0.0	0.0	4
+5	Latvia	180	41.0	0.0	0.0	0.0	4
+6	Lithuania	179	36.0	1.0	0.0	0.0	4
+7	Andorra	164	51.0	1.0	1.0	0.0	4
+8	North Macedonia	136	22.0	2.0	1.0	0.0	4
+9	"Bosnia andHerzegovina"	131	6.0	1.0	0.0	0.0	4
+10	Albania	123	34.0	4.0	2.0	0.0	4
+11	Cyprus	116	21.0	0.0	0.0	0.0	4
+12	Republic of Moldova	109	15.0	1.0	0.0	0.0	4
+13	Malta	107	17.0	0.0	0.0	0.0	4
+14	Ukraine	84	37.0	3.0	0.0	0.0	4
+15	Belarus	81	5.0	0.0	0.0	0.0	4
+16	Azerbaijan	72	7.0	1.0	0.0	0.0	4
+17	Georgia	67	13.0	0.0	0.0	0.0	4
+18	Kazakhstan	63	3.0	0.0	0.0	0.0	4
+19	Liechtenstein	46	0.0	0.0	0.0	1.0	4
+20	Uzbekistan	46	0.0	0.0	0.0	1.0	4
+21	Monaco	23	0.0	0.0	0.0	1.0	4
+22	Montenegro	22	1.0	0.0	0.0	0.0	4
+23	Kyrgyzstan	16	2.0	0.0	0.0	0.0	4
+24	Holy See	1	0.0	0.0	0.0	17.0	4
+25	Faroe Islands	118	3.0	0.0	0.0	0.0	4
+26	Kosovo[1]	61	30.0	1.0	0.0	0.0	4
+27	Guernsey	20	3.0	0.0	0.0	0.0	4
+28	Jersey	16	1.0	0.0	0.0	0.0	4
+29	Gibraltar	15	0.0	0.0	0.0	1.0	4
+30	Isle of Man	13	11.0	0.0	0.0	0.0	4
+31	Greenland	4	2.0	0.0	0.0	0.0	4
+32	Thailand	827	106.0	4.0	3.0	0.0	4
+33	Indonesia	579	65.0	49.0	1.0	0.0	4
+34	India	434	19.0	9.0	2.0	0.0	4
+35	Sri Lanka	97	15.0	0.0	0.0	0.0	4
+36	Bangladesh	33	6.0	3.0	1.0	0.0	4
+37	Maldives	13	0.0	0.0	0.0	8.0	4
+38	Bhutan	2	0.0	0.0	0.0	4.0	4
+39	Myanmar	2	2.0	0.0	0.0	0.0	4
+40	Nepal	2	1.0	0.0	0.0	0.0	4
+41	Timor-Leste	1	0.0	0.0	0.0	3.0	4
+42	"Iran (Islamic Republicof)"	23049	1411.0	1812.0	127.0	0.0	4
+43	Pakistan	887	103.0	6.0	1.0	0.0	4
+44	Saudi Arabia	562	51.0	0.0	0.0	0.0	4
+45	Qatar	501	7.0	0.0	0.0	0.0	4
+46	Bahrain	377	40.0	2.0	0.0	0.0	4
+47	Egypt	366	39.0	19.0	5.0	0.0	4
+0	Iraq	266	33.0	23.0	3.0	0.0	4
+1	United Arab Emirates	198	45.0	2.0	0.0	0.0	4
+2	Kuwait	191	2.0	0.0	0.0	0.0	4
+3	Morocco	143	28.0	4.0	0.0	0.0	4
+4	Jordan	127	15.0	0.0	0.0	0.0	4
+5	Tunisia	89	14.0	3.0	0.0	0.0	4
+6	Oman	84	29.0	0.0	0.0	0.0	4
+7	Afghanistan	42	2.0	1.0	0.0	0.0	4
+8	Djibouti	3	2.0	0.0	0.0	0.0	4
+9	Sudan	2	0.0	1.0	0.0	2.0	4
+10	Somalia	1	0.0	0.0	0.0	7.0	4
+11	Syrian Arab Republic	1	0.0	0.0	0.0	1.0	4
+12	"occupied Palestinianterritory"	59	0.0	0.0	0.0	1.0	4
+13	"United States ofAmerica"	42164	10591.0	471.0	69.0	0.0	4
+14	Brazil	1546	642.0	25.0	14.0	0.0	4
+15	Canada	1432	48.0	20.0	1.0	0.0	4
+16	Ecuador	790	258.0	15.0	8.0	0.0	4
+17	Chile	746	114.0	1.0	0.0	0.0	4
+18	Peru	395	77.0	2.0	0.0	0.0	4
+19	Mexico	370	119.0	4.0	2.0	0.0	4
+20	Panama	345	100.0	6.0	3.0	0.0	4
+21	Colombia	277	81.0	3.0	1.0	0.0	4
+22	Argentina	266	41.0	4.0	0.0	0.0	4
+23	Dominican Republic	245	173.0	3.0	1.0	0.0	4
+24	Uruguay	162	27.0	0.0	0.0	0.0	4
+25	Costa Rica	158	41.0	2.0	0.0	0.0	4
+26	"Venezuela (BolivarianRepublic of)"	70	0.0	0.0	0.0	1.0	4
+27	Trinidad and Tobago	51	1.0	0.0	0.0	0.0	4
+28	Cuba	40	24.0	1.0	0.0	0.0	4
+29	Honduras	30	4.0	0.0	0.0	0.0	4
+30	"Bolivia (PlurinationalState of)"	27	3.0	0.0	0.0	0.0	4
+31	Paraguay	22	0.0	1.0	0.0	1.0	4
+32	Guatemala	20	2.0	1.0	0.0	0.0	4
+33	Jamaica	19	0.0	1.0	0.0	1.0	4
+34	Barbados	17	12.0	0.0	0.0	0.0	4
+35	Haiti	6	4.0	0.0	0.0	0.0	4
+36	Guyana	5	0.0	1.0	0.0	5.0	4
+37	Bahamas	4	0.0	0.0	0.0	3.0	4
+38	El Salvador	3	2.0	0.0	0.0	0.0	4
+39	Saint Lucia	3	1.0	0.0	0.0	0.0	4
+40	Nicaragua	2	0.0	0.0	0.0	2.0	4
+41	Suriname	2	0.0	0.0	0.0	3.0	4
+42	Antigua and Barbuda	1	0.0	0.0	0.0	10.0	4
+43	Belize	1	1.0	0.0	0.0	0.0	4
+44	Dominica	1	1.0	0.0	0.0	0.0	4
+45	Grenada	1	0.0	0.0	0.0	1.0	4
+46	Saint Vincent and the	1	0.0	0.0	0.0	11.0	4
+0	China	81848	101	3287	4	0	5
+1	Republic of Korea	9137	100	126	6	0	5
+2	Australia	2252	543	8	1	0	5
+3	Malaysia	1624	106	16	2	0	5
+4	Japan	1193	65	43	1	0	5
+5	Singapore	558	51	2	0	0	5
+6	Philippines	552	90	35	2	0	5
+7	New Zealand	189	87	0	0	0	5
+8	Viet Nam	134	11	0	0	0	5
+9	Brunei Darussalam	104	13	0	0	0	5
+10	Cambodia	91	4	0	0	0	5
+11	Mongolia	10	0	0	0	3	5
+12	Fiji	4	1	0	0	0	5
+13	Papua New Guinea	1	0	0	0	4	5
+14	Guam	32	3	1	0	0	5
+15	French Polynesia	25	7	0	0	0	5
+16	New Caledonia	10	2	0	0	0	5
+17	Italy	69176	5249	6820	743	0	5
+18	Spain	39673	6584	2696	514	0	5
+19	Germany	31554	2342	149	23	0	5
+20	France	22025	2410	1100	240	0	5
+21	Switzerland	8789	774	86	20	0	5
+22	The United Kingdom	8081	1427	422	87	0	5
+23	Netherlands	5560	811	276	63	0	5
+24	Austria	5282	796	30	5	0	5
+25	Belgium	4269	526	122	34	0	5
+26	Norway	2566	195	10	2	0	5
+27	Portugal	2362	302	33	10	0	5
+28	Sweden	2272	256	36	11	0	5
+29	Israel	2170	932	5	4	0	5
+30	Turkey	1872	343	44	7	0	5
+31	Denmark	1591	131	32	8	0	5
+32	Czechia	1394	158	3	2	0	5
+33	Ireland	1329	204	7	1	0	5
+34	Luxembourg	1099	224	8	0	0	5
+35	Poland	901	152	10	2	0	5
+36	Finland	792	92	1	0	0	5
+37	Romania	762	186	11	4	0	5
+38	Greece	743	48	20	3	0	5
+39	Russian Federation	658	220	0	0	0	5
+40	Iceland	648	60	2	0	0	5
+41	Slovenia	480	38	3	2	0	5
+0	Estonia	369	17.0	0.0	0.0	0.0	5
+1	Serbia	303	54.0	3.0	1.0	0.0	5
+2	Armenia	265	30.0	0.0	0.0	0.0	5
+3	Hungary	226	39.0	10.0	2.0	0.0	5
+4	Bulgaria	220	19.0	3.0	0.0	0.0	5
+5	Lithuania	209	30.0	2.0	1.0	0.0	5
+6	Slovakia	204	13.0	0.0	0.0	0.0	5
+7	Latvia	197	17.0	0.0	0.0	0.0	5
+8	Andorra	188	24.0	1.0	0.0	0.0	5
+9	San Marino	187	0.0	21.0	1.0	1.0	5
+10	"Bosnia andHerzegovina"	164	33.0	2.0	1.0	0.0	5
+11	North Macedonia	148	12.0	2.0	0.0	0.0	5
+12	Albania	146	23.0	5.0	1.0	0.0	5
+13	Republic of Moldova	125	16.0	1.0	0.0	0.0	5
+14	Cyprus	124	8.0	3.0	3.0	0.0	5
+15	Malta	120	13.0	0.0	0.0	0.0	5
+16	Ukraine	113	29.0	4.0	1.0	0.0	5
+17	Azerbaijan	87	15.0	1.0	0.0	0.0	5
+18	Belarus	81	0.0	0.0	0.0	1.0	5
+19	Kazakhstan	79	16.0	0.0	0.0	0.0	5
+20	Georgia	73	6.0	0.0	0.0	0.0	5
+21	Uzbekistan	50	4.0	0.0	0.0	0.0	5
+22	Liechtenstein	47	1.0	0.0	0.0	0.0	5
+23	Kyrgyzstan	42	26.0	0.0	0.0	0.0	5
+24	Montenegro	29	7.0	0.0	0.0	0.0	5
+25	Monaco	23	0.0	0.0	0.0	2.0	5
+26	Holy See	1	0.0	0.0	0.0	18.0	5
+27	Faroe Islands	122	4.0	0.0	0.0	0.0	5
+28	Kosovo[1]	63	2.0	1.0	0.0	0.0	5
+29	Guernsey	23	3.0	0.0	0.0	0.0	5
+30	Isle of Man	23	10.0	0.0	0.0	0.0	5
+31	Jersey	16	0.0	0.0	0.0	1.0	5
+32	Gibraltar	15	0.0	0.0	0.0	2.0	5
+33	Greenland	4	0.0	0.0	0.0	1.0	5
+34	Thailand	934	107.0	4.0	0.0	0.0	5
+35	Indonesia	686	107.0	55.0	6.0	0.0	5
+36	India	562	128.0	9.0	0.0	0.0	5
+37	Sri Lanka	102	5.0	0.0	0.0	0.0	5
+38	Bangladesh	39	6.0	4.0	1.0	0.0	5
+39	Maldives	13	0.0	0.0	0.0	9.0	5
+40	Myanmar	3	1.0	0.0	0.0	0.0	5
+41	Bhutan	2	0.0	0.0	0.0	5.0	5
+42	Nepal	2	0.0	0.0	0.0	1.0	5
+43	Timor-Leste	1	0.0	0.0	0.0	4.0	5
+44	"Iran (Islamic Republicof)"	24811	1762.0	1934.0	122.0	0.0	5
+45	Pakistan	991	104.0	7.0	1.0	0.0	5
+46	Saudi Arabia	767	205.0	1.0	1.0	0.0	5
+47	Qatar	526	25.0	0.0	0.0	0.0	5
+0	Bahrain	392	15.0	3.0	1.0	0.0	5
+1	Iraq	316	50.0	27.0	4.0	0.0	5
+2	Lebanon	304	37.0	4.0	0.0	0.0	5
+3	United Arab Emirates	248	50.0	2.0	0.0	0.0	5
+4	Kuwait	195	4.0	0.0	0.0	0.0	5
+5	Morocco	170	27.0	5.0	1.0	0.0	5
+6	Jordan	153	26.0	0.0	0.0	0.0	5
+7	Tunisia	114	25.0	3.0	0.0	0.0	5
+8	Oman	99	15.0	0.0	0.0	0.0	5
+9	Afghanistan	74	32.0	1.0	0.0	0.0	5
+10	Djibouti	3	0.0	0.0	0.0	1.0	5
+11	Sudan	3	1.0	1.0	0.0	0.0	5
+12	Libya	1	1.0	0.0	0.0	0.0	5
+13	Somalia	1	0.0	0.0	0.0	8.0	5
+14	Syrian Arab Republic	1	0.0	0.0	0.0	2.0	5
+15	"occupied Palestinianterritory"	60	1.0	0.0	0.0	0.0	5
+16	"United States ofAmerica"	51914	9750.0	673.0	202.0	0.0	5
+17	Brazil	2201	655.0	46.0	21.0	0.0	5
+18	Canada	1739	307.0	25.0	5.0	0.0	5
+19	Ecuador	1049	259.0	27.0	12.0	0.0	5
+20	Chile	922	176.0	2.0	1.0	0.0	5
+21	Peru	416	21.0	5.0	3.0	0.0	5
+22	Mexico	370	0.0	4.0	0.0	1.0	5
+23	Panama	345	0.0	6.0	0.0	1.0	5
+24	Dominican Republic	312	67.0	6.0	3.0	0.0	5
+25	Colombia	306	29.0	3.0	0.0	0.0	5
+26	Argentina	301	35.0	4.0	0.0	0.0	5
+27	Costa Rica	177	19.0	2.0	0.0	0.0	5
+28	Uruguay	162	0.0	0.0	0.0	1.0	5
+29	"Venezuela (BolivarianRepublic of)"	77	7.0	0.0	0.0	0.0	5
+30	Trinidad and Tobago	57	6.0	0.0	0.0	0.0	5
+31	Cuba	48	8.0	1.0	0.0	0.0	5
+32	Honduras	30	0.0	0.0	0.0	1.0	5
+33	"Bolivia (PlurinationalState of)"	28	1.0	0.0	0.0	0.0	5
+34	Paraguay	27	5.0	2.0	1.0	0.0	5
+35	Guatemala	21	1.0	1.0	0.0	0.0	5
+36	Jamaica	21	2.0	1.0	0.0	0.0	5
+37	Barbados	18	1.0	0.0	0.0	0.0	5
+38	Haiti	7	1.0	0.0	0.0	0.0	5
+39	Suriname	6	4.0	0.0	0.0	0.0	5
+40	El Salvador	5	2.0	0.0	0.0	0.0	5
+41	Guyana	5	0.0	1.0	0.0	6.0	5
+42	Bahamas	4	0.0	0.0	0.0	4.0	5
+43	Antigua and Barbuda	3	2.0	0.0	0.0	0.0	5
+44	Saint Lucia	3	0.0	0.0	0.0	1.0	5
+45	Dominica	2	1.0	0.0	0.0	0.0	5
+46	Nicaragua	2	0.0	0.0	0.0	3.0	5
+0	China	81961	113	3293	6	0	6
+1	Republic of Korea	9241	104	131	5	0	6
+2	Australia	2799	547	11	3	0	6
+3	Malaysia	1796	172	19	3	0	6
+4	Japan	1291	98	45	2	0	6
+5	Philippines	636	84	38	3	0	6
+6	Singapore	631	73	2	0	0	6
+7	New Zealand	262	73	0	0	0	6
+8	Viet Nam	141	7	0	0	0	6
+9	Brunei Darussalam	109	5	0	0	0	6
+10	Cambodia	96	5	0	0	0	6
+11	Mongolia	10	0	0	0	4	6
+12	Fiji	5	1	0	0	0	6
+13	Papua New Guinea	1	0	0	0	5	6
+14	Guam	37	5	1	0	0	6
+15	French Polynesia	25	0	0	0	1	6
+16	New Caledonia	14	4	0	0	0	6
+17	Italy	74386	5210	7505	685	0	6
+18	Spain	47610	7937	3434	738	0	6
+19	Germany	36508	4954	198	49	0	6
+20	France	24920	2895	1331	231	0	6
+21	Switzerland	9714	925	103	17	0	6
+22	The United Kingdom	9533	1452	463	41	0	6
+23	Netherlands	6412	852	356	80	0	6
+24	Austria	5888	606	34	4	0	6
+25	Belgium	4937	668	178	56	0	6
+26	Portugal	2995	633	43	10	0	6
+27	Norway	2916	350	12	2	0	6
+28	Sweden	2510	238	42	6	0	6
+29	Turkey	2433	561	59	15	0	6
+30	Israel	2369	199	5	0	0	6
+31	Denmark	1724	133	34	2	0	6
+32	Czechia	1654	260	6	3	0	6
+33	Ireland	1564	235	9	2	0	6
+34	Luxembourg	1333	234	8	0	0	6
+35	Poland	1051	150	14	4	0	6
+36	Romania	906	144	13	2	0	6
+37	Finland	880	88	3	2	0	6
+38	Russian Federation	840	182	2	2	0	6
+39	Greece	821	78	22	2	0	6
+40	Iceland	737	89	2	0	0	6
+41	Slovenia	528	48	4	1	0	6
+0	Estonia	404	35.0	1.0	1.0	0.0	6
+1	Serbia	384	81.0	4.0	1.0	0.0	6
+2	Armenia	290	25.0	0.0	0.0	0.0	6
+3	Lithuania	274	65.0	4.0	2.0	0.0	6
+4	Hungary	261	35.0	10.0	0.0	0.0	6
+5	Bulgaria	242	22.0	3.0	0.0	0.0	6
+6	Latvia	221	24.0	0.0	0.0	0.0	6
+7	Slovakia	216	12.0	0.0	0.0	0.0	6
+8	Andorra	213	25.0	3.0	2.0	0.0	6
+9	San Marino	208	21.0	21.0	0.0	0.0	6
+10	North Macedonia	177	29.0	2.0	0.0	0.0	6
+11	Albania	174	28.0	5.0	0.0	0.0	6
+12	"Bosnia andHerzegovina"	173	9.0	3.0	1.0	0.0	6
+13	Ukraine	156	43.0	5.0	1.0	0.0	6
+14	Republic of Moldova	149	24.0	1.0	0.0	0.0	6
+15	Cyprus	132	8.0	3.0	0.0	0.0	6
+16	Malta	129	9.0	0.0	0.0	0.0	6
+17	Kazakhstan	97	18.0	0.0	0.0	0.0	6
+18	Azerbaijan	93	6.0	2.0	1.0	0.0	6
+19	Belarus	86	5.0	0.0	0.0	0.0	6
+20	Georgia	77	4.0	0.0	0.0	0.0	6
+21	Uzbekistan	65	15.0	0.0	0.0	0.0	6
+22	Montenegro	52	23.0	1.0	1.0	0.0	6
+23	Liechtenstein	51	4.0	0.0	0.0	0.0	6
+24	Kyrgyzstan	44	2.0	0.0	0.0	0.0	6
+25	Monaco	23	0.0	0.0	0.0	3.0	6
+26	Holy See	4	3.0	0.0	0.0	0.0	6
+27	Faroe Islands	132	10.0	0.0	0.0	0.0	6
+28	Kosovo[1]	71	8.0	1.0	0.0	0.0	6
+29	Guernsey	30	7.0	0.0	0.0	0.0	6
+30	Gibraltar	26	11.0	0.0	0.0	0.0	6
+31	Isle of Man	23	0.0	0.0	0.0	1.0	6
+32	Jersey	18	2.0	0.0	0.0	0.0	6
+33	Greenland	5	1.0	0.0	0.0	0.0	6
+34	Thailand	934	0.0	4.0	0.0	1.0	6
+35	Indonesia	790	104.0	58.0	3.0	0.0	6
+36	India	649	87.0	13.0	4.0	0.0	6
+37	Sri Lanka	102	0.0	0.0	0.0	1.0	6
+38	Bangladesh	39	0.0	4.0	0.0	1.0	6
+39	Maldives	13	0.0	0.0	0.0	10.0	6
+40	Myanmar	3	0.0	0.0	0.0	1.0	6
+41	Nepal	3	1.0	0.0	0.0	0.0	6
+42	Bhutan	2	0.0	0.0	0.0	6.0	6
+43	Timor-Leste	1	0.0	0.0	0.0	5.0	6
+44	"Iran (Islamic Republicof)"	27017	2206.0	2077.0	143.0	0.0	6
+45	Pakistan	1057	66.0	8.0	1.0	0.0	6
+46	Saudi Arabia	900	133.0	2.0	1.0	0.0	6
+47	Qatar	537	11.0	0.0	0.0	0.0	6
+0	Bahrain	419	27.0	4.0	1.0	0.0	6
+1	Iraq	346	30.0	29.0	2.0	0.0	6
+2	Lebanon	333	29.0	4.0	0.0	0.0	6
+3	United Arab Emirates	333	85.0	2.0	0.0	0.0	6
+4	Morocco	225	55.0	6.0	1.0	0.0	6
+5	Kuwait	208	13.0	0.0	0.0	0.0	6
+6	Tunisia	173	59.0	5.0	2.0	0.0	6
+7	Jordan	172	19.0	0.0	0.0	0.0	6
+8	Oman	99	0.0	0.0	0.0	1.0	6
+9	Afghanistan	80	6.0	2.0	1.0	0.0	6
+10	Djibouti	12	9.0	0.0	0.0	0.0	6
+11	Syrian Arab Republic	5	4.0	0.0	0.0	0.0	6
+12	Sudan	3	0.0	1.0	0.0	1.0	6
+13	Somalia	2	1.0	0.0	0.0	0.0	6
+14	Libya	1	0.0	0.0	0.0	1.0	6
+15	"occupied Palestinianterritory"	64	4.0	1.0	1.0	0.0	6
+16	"United States ofAmerica"	63570	11656.0	884.0	211.0	0.0	6
+17	Canada	3409	1670.0	35.0	10.0	0.0	6
+18	Brazil	2433	232.0	57.0	11.0	0.0	6
+19	Ecuador	1211	162.0	29.0	2.0	0.0	6
+20	Chile	1142	220.0	3.0	1.0	0.0	6
+21	Panama	558	213.0	8.0	2.0	0.0	6
+22	Peru	480	64.0	9.0	4.0	0.0	6
+23	Mexico	478	108.0	5.0	1.0	0.0	6
+24	Colombia	470	164.0	4.0	1.0	0.0	6
+25	Dominican Republic	392	80.0	10.0	4.0	0.0	6
+26	Argentina	387	86.0	6.0	2.0	0.0	6
+27	Uruguay	217	55.0	0.0	0.0	0.0	6
+28	Costa Rica	201	24.0	2.0	0.0	0.0	6
+29	"Venezuela (BolivarianRepublic of)"	91	14.0	0.0	0.0	0.0	6
+30	Trinidad and Tobago	60	3.0	1.0	1.0	0.0	6
+31	Cuba	57	9.0	1.0	0.0	0.0	6
+32	Honduras	52	22.0	0.0	0.0	0.0	6
+33	Paraguay	41	14.0	3.0	1.0	0.0	6
+34	"Bolivia (PlurinationalState of)"	39	11.0	0.0	0.0	0.0	6
+35	Jamaica	26	5.0	1.0	0.0	0.0	6
+36	Guatemala	24	3.0	1.0	0.0	0.0	6
+37	Barbados	18	0.0	0.0	0.0	1.0	6
+38	El Salvador	13	8.0	0.0	0.0	0.0	6
+39	Haiti	8	1.0	0.0	0.0	0.0	6
+40	Dominica	7	5.0	0.0	0.0	0.0	6
+41	Suriname	7	1.0	0.0	0.0	0.0	6
+42	Bahamas	5	1.0	0.0	0.0	0.0	6
+43	Guyana	5	0.0	1.0	0.0	7.0	6
+44	Antigua and Barbuda	3	0.0	0.0	0.0	1.0	6
+45	Saint Lucia	3	0.0	0.0	0.0	2.0	6
+46	Belize	2	1.0	0.0	0.0	0.0	6
+0	China	82078	117	3298	5	0	7
+1	Republic of Korea	9332	91	139	8	0	7
+2	Australia	2985	186	13	2	0	7
+3	Malaysia	2031	235	23	4	0	7
+4	Japan	1387	96	46	1	0	7
+5	Philippines	707	71	45	7	0	7
+6	Singapore	683	52	2	0	0	7
+7	New Zealand	338	76	0	0	0	7
+8	Viet Nam	153	12	0	0	0	7
+9	Brunei Darussalam	114	5	0	0	0	7
+10	Cambodia	98	2	0	0	0	7
+11	Mongolia	11	1	0	0	0	7
+12	Fiji	5	0	0	0	1	7
+13	Papua New Guinea	1	0	0	0	6	7
+14	Guam	45	8	1	0	0	7
+15	French Polynesia	30	5	0	0	0	7
+16	New Caledonia	14	0	0	0	1	7
+17	Italy	80539	6153	8165	660	0	7
+18	Spain	56188	8578	4089	655	0	7
+19	Germany	42288	5780	253	55	0	7
+20	France	28786	3866	1695	364	0	7
+21	The United Kingdom	11662	2129	578	115	0	7
+22	Switzerland	10714	1000	161	58	0	7
+23	Netherlands	7431	1019	434	78	0	7
+24	Austria	7029	1141	52	18	0	7
+25	Belgium	6235	1298	220	42	0	7
+26	Turkey	3629	1196	75	16	0	7
+27	Portugal	3544	549	60	17	0	7
+28	Norway	3156	240	14	2	0	7
+29	Israel	3035	666	10	5	0	7
+30	Sweden	2806	296	66	24	0	7
+31	Czechia	2062	408	9	3	0	7
+32	Denmark	1877	153	41	7	0	7
+33	Ireland	1819	255	19	10	0	7
+34	Luxembourg	1453	120	9	1	0	7
+35	Poland	1221	170	16	2	0	7
+36	Russian Federation	1036	196	3	1	0	7
+37	Romania	1029	123	17	4	0	7
+38	Finland	958	78	4	1	0	7
+39	Greece	892	71	26	4	0	7
+40	Iceland	802	65	2	0	0	7
+41	Slovenia	577	49	5	1	0	7
+0	Croatia	495	77.0	2.0	1.0	0.0	7
+1	Serbia	457	73.0	7.0	3.0	0.0	7
+2	Armenia	329	39.0	1.0	1.0	0.0	7
+3	Hungary	300	39.0	10.0	0.0	0.0	7
+4	Lithuania	299	25.0	4.0	0.0	0.0	7
+5	Bulgaria	264	22.0	3.0	0.0	0.0	7
+6	Latvia	244	23.0	0.0	0.0	0.0	7
+7	Andorra	231	18.0	3.0	0.0	0.0	7
+8	Slovakia	226	10.0	0.0	0.0	0.0	7
+9	San Marino	218	10.0	21.0	0.0	0.0	7
+10	Ukraine	218	62.0	5.0	0.0	0.0	7
+11	"Bosnia andHerzegovina"	213	40.0	3.0	0.0	0.0	7
+12	North Macedonia	201	24.0	3.0	1.0	0.0	7
+13	Albania	186	12.0	8.0	3.0	0.0	7
+14	Republic of Moldova	177	28.0	2.0	1.0	0.0	7
+15	Cyprus	146	14.0	3.0	0.0	0.0	7
+16	Malta	134	5.0	0.0	0.0	0.0	7
+17	Kazakhstan	125	28.0	0.0	0.0	0.0	7
+18	Azerbaijan	122	29.0	3.0	1.0	0.0	7
+19	Belarus	86	0.0	0.0	0.0	1.0	7
+20	Uzbekistan	83	18.0	0.0	0.0	0.0	7
+21	Georgia	81	4.0	0.0	0.0	0.0	7
+22	Montenegro	67	15.0	1.0	0.0	0.0	7
+23	Kyrgyzstan	58	14.0	0.0	0.0	0.0	7
+24	Liechtenstein	56	5.0	0.0	0.0	0.0	7
+25	Monaco	19	0.0	0.0	0.0	4.0	7
+26	Holy See	4	0.0	0.0	0.0	1.0	7
+27	Faroe Islands	140	8.0	0.0	0.0	0.0	7
+28	Kosovo[1]	79	8.0	1.0	0.0	0.0	7
+29	Gibraltar	35	9.0	0.0	0.0	0.0	7
+30	Guernsey	34	4.0	0.0	0.0	0.0	7
+31	Jersey	32	14.0	1.0	1.0	0.0	7
+32	Isle of Man	26	3.0	0.0	0.0	0.0	7
+33	Greenland	6	1.0	0.0	0.0	0.0	7
+34	Thailand	1136	202.0	5.0	1.0	0.0	7
+35	Indonesia	893	103.0	78.0	20.0	0.0	7
+36	India	724	75.0	17.0	4.0	0.0	7
+37	Sri Lanka	106	4.0	0.0	0.0	0.0	7
+38	Bangladesh	48	9.0	5.0	1.0	0.0	7
+39	Maldives	13	0.0	0.0	0.0	11.0	7
+40	Myanmar	5	2.0	0.0	0.0	0.0	7
+41	Bhutan	3	1.0	0.0	0.0	0.0	7
+42	Nepal	3	0.0	0.0	0.0	1.0	7
+43	Timor-Leste	1	0.0	0.0	0.0	6.0	7
+44	"Iran (Islamic Republicof)"	29406	2389.0	2234.0	157.0	0.0	7
+45	Pakistan	1057	0.0	8.0	0.0	1.0	7
+46	Saudi Arabia	1012	112.0	3.0	1.0	0.0	7
+47	Qatar	549	12.0	0.0	0.0	0.0	7
+0	Bahrain	458	39.0	4.0	0.0	0.0	7
+1	Iraq	382	36.0	36.0	7.0	0.0	7
+2	Lebanon	368	35.0	6.0	2.0	0.0	7
+3	United Arab Emirates	333	0.0	2.0	0.0	1.0	7
+4	Morocco	275	50.0	10.0	4.0	0.0	7
+5	Jordan	212	40.0	0.0	0.0	0.0	7
+6	Kuwait	208	0.0	0.0	0.0	1.0	7
+7	Tunisia	197	24.0	5.0	0.0	0.0	7
+8	Oman	109	10.0	0.0	0.0	0.0	7
+9	Afghanistan	80	0.0	2.0	0.0	1.0	7
+10	Djibouti	12	0.0	0.0	0.0	1.0	7
+11	Syrian Arab Republic	5	0.0	0.0	0.0	1.0	7
+12	Somalia	3	1.0	0.0	0.0	0.0	7
+13	Sudan	3	0.0	1.0	0.0	2.0	7
+14	Libya	1	0.0	0.0	0.0	2.0	7
+15	"occupied Palestinianterritory"	84	20.0	1.0	0.0	0.0	7
+16	"United States ofAmerica"	68334	4764.0	991.0	107.0	0.0	7
+17	Canada	3555	146.0	35.0	0.0	0.0	7
+18	Brazil	2433	0.0	57.0	0.0	1.0	7
+19	Chile	1306	164.0	4.0	1.0	0.0	7
+20	Ecuador	1211	0.0	29.0	0.0	1.0	7
+21	Peru	580	100.0	9.0	0.0	0.0	7
+22	Panama	558	0.0	8.0	0.0	1.0	7
+23	Argentina	502	115.0	8.0	2.0	0.0	7
+24	Dominican Republic	488	96.0	10.0	0.0	0.0	7
+25	Mexico	478	0.0	5.0	0.0	1.0	7
+26	Colombia	470	0.0	4.0	0.0	1.0	7
+27	Uruguay	217	0.0	0.0	0.0	1.0	7
+28	Costa Rica	201	0.0	2.0	0.0	1.0	7
+29	"Venezuela (BolivarianRepublic of)"	91	0.0	0.0	0.0	1.0	7
+30	Cuba	67	10.0	1.0	0.0	0.0	7
+31	Trinidad and Tobago	61	1.0	1.0	0.0	0.0	7
+32	Honduras	52	0.0	1.0	1.0	1.0	7
+33	Paraguay	41	0.0	3.0	0.0	1.0	7
+34	"Bolivia (PlurinationalState of)"	39	0.0	0.0	0.0	1.0	7
+35	Jamaica	26	0.0	1.0	0.0	1.0	7
+36	Guatemala	24	0.0	1.0	0.0	1.0	7
+37	Barbados	18	0.0	0.0	0.0	2.0	7
+38	El Salvador	13	0.0	0.0	0.0	1.0	7
+39	Dominica	11	4.0	0.0	0.0	0.0	7
+40	Haiti	8	0.0	0.0	0.0	1.0	7
+41	Grenada	7	6.0	0.0	0.0	0.0	7
+42	Suriname	7	0.0	0.0	0.0	1.0	7
+43	Bahamas	5	0.0	0.0	0.0	1.0	7
+44	Guyana	5	0.0	1.0	0.0	8.0	7
+45	Antigua and Barbuda	3	0.0	0.0	0.0	2.0	7
+46	Saint Lucia	3	0.0	0.0	0.0	3.0	7
+0	China	82213	135	3301	3	0	8
+1	Republic of Korea	9478	146	144	5	0	8
+2	Australia	3635	650	14	1	0	8
+3	Malaysia	2161	130	26	3	0	8
+4	Japan	1499	112	49	3	0	8
+5	Philippines	803	96	54	9	0	8
+6	Singapore	732	49	2	0	0	8
+7	New Zealand	416	78	0	0	0	8
+8	Viet Nam	169	16	0	0	0	8
+9	Brunei Darussalam	115	1	1	1	0	8
+10	Cambodia	104	6	0	0	0	8
+11	Mongolia	12	1	0	0	0	8
+12	Democratic Republic	6	0	0	0	1	8
+13	Fiji	5	0	0	0	2	8
+14	Papua New Guinea	1	0	0	0	7	8
+15	Guam	51	6	1	0	0	8
+16	French Polynesia	30	0	0	0	1	8
+17	New Caledonia	15	1	0	0	0	8
+18	Italy	86498	5959	9136	971	0	8
+19	Spain	64059	7871	4858	769	0	8
+20	Germany	48582	6294	325	72	0	8
+21	France	32542	3756	1992	297	0	8
+22	The United Kingdom	14547	2885	759	181	0	8
+23	Switzerland	12104	1390	197	36	0	8
+24	Netherlands	8603	1172	546	112	0	8
+25	Austria	7697	668	68	16	0	8
+26	Belgium	7284	1049	289	69	0	8
+27	Turkey	5698	2069	92	17	0	8
+28	Portugal	4268	724	76	16	0	8
+29	Norway	3581	425	16	2	0	8
+30	Israel	3460	425	12	2	0	8
+31	Sweden	3046	240	92	26	0	8
+32	Czechia	2279	217	9	0	0	8
+33	Ireland	2121	302	22	3	0	8
+34	Denmark	2046	169	52	11	0	8
+35	Luxembourg	1605	152	15	6	0	8
+36	Poland	1389	168	16	0	0	8
+37	Romania	1292	263	24	7	0	8
+38	Russian Federation	1264	228	4	1	0	8
+39	Finland	1025	67	7	3	0	8
+40	Greece	966	74	28	2	0	8
+41	Iceland	890	88	2	0	0	8
+42	Slovenia	632	55	9	4	0	8
+0	Estonia	575	37.0	1.0	0.0	0.0	8
+1	Serbia	528	71.0	7.0	0.0	0.0	8
+2	Armenia	372	43.0	1.0	0.0	0.0	8
+3	Lithuania	358	59.0	5.0	1.0	0.0	8
+4	Hungary	343	43.0	11.0	1.0	0.0	8
+5	Ukraine	311	93.0	8.0	3.0	0.0	8
+6	Slovakia	295	69.0	0.0	0.0	0.0	8
+7	Bulgaria	293	29.0	3.0	0.0	0.0	8
+8	Andorra	289	58.0	3.0	0.0	0.0	8
+9	Latvia	280	36.0	0.0	0.0	0.0	8
+10	"Bosnia andHerzegovina"	233	20.0	4.0	1.0	0.0	8
+11	San Marino	228	10.0	21.0	0.0	0.0	8
+12	North Macedonia	219	18.0	3.0	0.0	0.0	8
+13	Kazakhstan	204	79.0	1.0	1.0	0.0	8
+14	Republic of Moldova	199	22.0	2.0	0.0	0.0	8
+15	Albania	197	11.0	9.0	1.0	0.0	8
+16	Cyprus	162	16.0	5.0	2.0	0.0	8
+17	Azerbaijan	147	25.0	3.0	0.0	0.0	8
+18	Malta	139	5.0	0.0	0.0	0.0	8
+19	Uzbekistan	104	21.0	1.0	1.0	0.0	8
+20	Belarus	94	8.0	0.0	0.0	0.0	8
+21	Georgia	85	4.0	0.0	0.0	0.0	8
+22	Montenegro	70	3.0	1.0	0.0	0.0	8
+23	Liechtenstein	60	4.0	0.0	0.0	0.0	8
+24	Kyrgyzstan	58	0.0	0.0	0.0	1.0	8
+25	Monaco	19	0.0	0.0	0.0	5.0	8
+26	Holy See	4	0.0	0.0	0.0	2.0	8
+27	Faroe Islands	144	4.0	0.0	0.0	0.0	8
+28	Kosovo[1]	88	9.0	1.0	0.0	0.0	8
+29	Gibraltar	55	20.0	0.0	0.0	0.0	8
+30	Jersey	52	20.0	1.0	0.0	0.0	8
+31	Guernsey	36	2.0	0.0	0.0	0.0	8
+32	Isle of Man	29	3.0	0.0	0.0	0.0	8
+33	Greenland	9	3.0	0.0	0.0	0.0	8
+34	Thailand	1136	0.0	5.0	0.0	1.0	8
+35	Indonesia	1046	153.0	87.0	9.0	0.0	8
+36	India	724	0.0	17.0	0.0	1.0	8
+37	Sri Lanka	106	0.0	0.0	0.0	1.0	8
+38	Bangladesh	48	0.0	5.0	0.0	1.0	8
+39	Maldives	13	0.0	0.0	0.0	12.0	8
+40	Myanmar	5	0.0	0.0	0.0	1.0	8
+41	Bhutan	3	0.0	0.0	0.0	1.0	8
+42	Nepal	3	0.0	0.0	0.0	2.0	8
+43	Timor-Leste	1	0.0	0.0	0.0	7.0	8
+44	"Iran (Islamic Republicof)"	32332	2926.0	2378.0	144.0	0.0	8
+45	Pakistan	1235	178.0	9.0	1.0	0.0	8
+46	Saudi Arabia	1104	92.0	3.0	0.0	0.0	8
+47	Qatar	562	13.0	0.0	0.0	0.0	8
+0	Bahrain	473	15.0	4.0	0.0	0.0	8
+1	Iraq	458	76.0	40.0	4.0	0.0	8
+2	United Arab Emirates	405	72.0	2.0	0.0	0.0	8
+3	Lebanon	391	23.0	8.0	2.0	0.0	8
+4	Morocco	358	83.0	23.0	13.0	0.0	8
+5	Jordan	235	23.0	1.0	1.0	0.0	8
+6	Kuwait	235	27.0	0.0	0.0	0.0	8
+7	Tunisia	227	30.0	6.0	1.0	0.0	8
+8	Oman	152	43.0	0.0	0.0	0.0	8
+9	Afghanistan	106	26.0	2.0	0.0	0.0	8
+10	Djibouti	13	1.0	0.0	0.0	0.0	8
+11	Syrian Arab Republic	5	0.0	0.0	0.0	2.0	8
+12	Somalia	3	0.0	0.0	0.0	1.0	8
+13	Sudan	3	0.0	1.0	0.0	3.0	8
+14	Libya	1	0.0	0.0	0.0	3.0	8
+15	"occupied Palestinianterritory"	97	13.0	1.0	0.0	0.0	8
+16	"United States ofAmerica"	85228	16894.0	1243.0	252.0	0.0	8
+17	Canada	4018	463.0	39.0	4.0	0.0	8
+18	Brazil	2915	482.0	77.0	20.0	0.0	8
+19	Chile	1610	304.0	5.0	1.0	0.0	8
+20	Ecuador	1595	384.0	36.0	7.0	0.0	8
+21	Panama	674	116.0	9.0	1.0	0.0	8
+22	Argentina	589	87.0	12.0	4.0	0.0	8
+23	Mexico	589	111.0	8.0	3.0	0.0	8
+24	Dominican Republic	581	93.0	20.0	10.0	0.0	8
+25	Peru	580	0.0	9.0	0.0	1.0	8
+26	Colombia	491	21.0	6.0	2.0	0.0	8
+27	Uruguay	238	21.0	0.0	0.0	0.0	8
+28	Costa Rica	231	30.0	2.0	0.0	0.0	8
+29	"Venezuela (BolivarianRepublic of)"	106	15.0	0.0	0.0	0.0	8
+30	Cuba	80	13.0	2.0	1.0	0.0	8
+31	Honduras	67	15.0	1.0	0.0	0.0	8
+32	Trinidad and Tobago	66	5.0	2.0	1.0	0.0	8
+33	"Bolivia (PlurinationalState of)"	61	22.0	0.0	0.0	0.0	8
+34	Paraguay	52	11.0	3.0	0.0	0.0	8
+35	Jamaica	26	0.0	1.0	0.0	2.0	8
+36	Guatemala	25	1.0	1.0	0.0	0.0	8
+37	Barbados	24	6.0	0.0	0.0	0.0	8
+38	El Salvador	13	0.0	0.0	0.0	2.0	8
+39	Dominica	11	0.0	0.0	0.0	1.0	8
+40	Bahamas	9	4.0	0.0	0.0	0.0	8
+41	Haiti	8	0.0	0.0	0.0	2.0	8
+42	Suriname	8	1.0	0.0	0.0	0.0	8
+43	Antigua and Barbuda	7	4.0	0.0	0.0	0.0	8
+44	Grenada	7	0.0	0.0	0.0	1.0	8
+45	Guyana	5	0.0	1.0	0.0	9.0	8
+46	Saint Lucia	3	0.0	0.0	0.0	4.0	8
+0	Reporting Country/	confirm	confirmed	Total	new	reported case	9
+1	China	82341	128	3306	5	0	9
+2	Republic of Korea	9583	105	152	8	0	9
+3	Australia	3966	331	16	2	0	9
+4	Malaysia	2320	159	27	1	0	9
+5	Japan	1693	194	52	3	0	9
+6	Philippines	1075	272	68	14	0	9
+7	Singapore	802	70	2	0	0	9
+8	New Zealand	476	60	1	1	0	9
+9	Viet Nam	179	10	0	0	0	9
+10	Brunei Darussalam	120	5	1	0	0	9
+11	Cambodia	102	0	0	0	1	9
+12	Mongolia	12	0	0	0	1	9
+13	Democratic Republic	6	0	0	0	2	9
+14	Fiji	5	0	0	0	3	9
+15	Papua New Guinea	1	0	0	0	8	9
+16	Guam	56	5	1	0	0	9
+17	French Polynesia	34	4	0	0	0	9
+18	New Caledonia	15	0	0	0	1	9
+19	Italy	92472	5974	10023	887	0	9
+20	Spain	72248	8189	5690	832	0	9
+21	Germany	52547	3965	389	64	0	9
+22	France	37145	4603	2311	319	0	9
+23	The United Kingdom	17093	2546	1019	260	0	9
+24	Switzerland	13152	1048	235	38	0	9
+25	Netherlands	9762	1159	639	93	0	9
+26	Belgium	9134	1850	353	64	0	9
+27	Austria	8291	594	68	0	0	9
+28	Turkey	7402	1704	108	16	0	9
+29	Portugal	5170	902	100	24	0	9
+30	Israel	3865	405	15	3	0	9
+31	Norway	3845	264	20	4	0	9
+32	Sweden	3447	401	102	10	0	9
+33	Czechia	2663	384	11	2	0	9
+34	Ireland	2415	294	36	14	0	9
+35	Denmark	2201	155	65	13	0	9
+36	Luxembourg	1831	226	18	3	0	9
+37	Poland	1638	249	18	2	0	9
+38	Russian Federation	1534	270	8	4	0	9
+0	Finland	1218	193.0	9.0	2.0	0.0	9
+1	Greece	1061	95.0	32.0	4.0	0.0	9
+2	Iceland	963	73.0	2.0	0.0	0.0	9
+3	Slovenia	691	59.0	9.0	0.0	0.0	9
+4	Serbia	659	131.0	10.0	3.0	0.0	9
+5	Croatia	657	71.0	5.0	2.0	0.0	9
+6	Estonia	640	65.0	1.0	0.0	0.0	9
+7	Armenia	424	52.0	3.0	2.0	0.0	9
+8	Ukraine	418	107.0	9.0	1.0	0.0	9
+9	Hungary	408	65.0	13.0	2.0	0.0	9
+10	Lithuania	394	36.0	7.0	2.0	0.0	9
+11	Bulgaria	331	38.0	7.0	4.0	0.0	9
+12	Andorra	321	32.0	4.0	1.0	0.0	9
+13	Latvia	305	25.0	0.0	0.0	0.0	9
+14	Slovakia	295	0.0	0.0	0.0	1.0	9
+15	"Bosnia andHerzegovina"	269	36.0	6.0	2.0	0.0	9
+16	Kazakhstan	265	61.0	1.0	0.0	0.0	9
+17	North Macedonia	241	22.0	4.0	1.0	0.0	9
+18	Republic of Moldova	231	32.0	2.0	0.0	0.0	9
+19	San Marino	228	0.0	22.0	1.0	1.0	9
+20	Albania	212	15.0	10.0	1.0	0.0	9
+21	Cyprus	179	17.0	5.0	0.0	0.0	9
+22	Azerbaijan	164	17.0	4.0	1.0	0.0	9
+23	Malta	139	0.0	0.0	0.0	1.0	9
+24	Uzbekistan	133	29.0	2.0	1.0	0.0	9
+25	Belarus	94	0.0	0.0	0.0	1.0	9
+26	Georgia	90	5.0	0.0	0.0	0.0	9
+27	Kyrgyzstan	84	26.0	0.0	0.0	0.0	9
+28	Montenegro	82	12.0	1.0	0.0	0.0	9
+29	Liechtenstein	61	1.0	0.0	0.0	0.0	9
+30	Monaco	19	0.0	0.0	0.0	6.0	9
+31	Holy See	4	0.0	0.0	0.0	3.0	9
+32	Faroe Islands	155	11.0	0.0	0.0	0.0	9
+33	Kosovo[1]	91	3.0	1.0	0.0	0.0	9
+34	Jersey	61	9.0	1.0	0.0	0.0	9
+35	Gibraltar	56	1.0	0.0	0.0	0.0	9
+36	Guernsey	39	3.0	0.0	0.0	0.0	9
+37	Isle of Man	32	3.0	0.0	0.0	0.0	9
+38	Greenland	10	1.0	0.0	0.0	0.0	9
+39	Thailand	1388	252.0	7.0	2.0	0.0	9
+40	Indonesia	1155	109.0	102.0	15.0	0.0	9
+41	India	979	255.0	25.0	8.0	0.0	9
+42	Sri Lanka	106	0.0	0.0	0.0	2.0	9
+43	Bangladesh	48	0.0	5.0	0.0	2.0	9
+44	Maldives	16	3.0	0.0	0.0	0.0	9
+45	Myanmar	8	3.0	0.0	0.0	0.0	9
+46	Nepal	5	2.0	0.0	0.0	0.0	9
+47	Bhutan	3	0.0	0.0	0.0	2.0	9
+48	Timor-Leste	1	0.0	0.0	0.0	8.0	9
+0	Pakistan	1526	291.0	13.0	4.0	0.0	9
+1	Saudi Arabia	1203	99.0	4.0	1.0	0.0	9
+2	Qatar	590	28.0	1.0	1.0	0.0	9
+3	Egypt	576	40.0	36.0	6.0	0.0	9
+4	Iraq	506	48.0	42.0	2.0	0.0	9
+5	Bahrain	476	3.0	4.0	0.0	0.0	9
+6	United Arab Emirates	468	63.0	2.0	0.0	0.0	9
+7	Morocco	437	79.0	26.0	3.0	0.0	9
+8	Lebanon	412	21.0	8.0	0.0	0.0	9
+9	Tunisia	278	51.0	8.0	2.0	0.0	9
+10	Jordan	246	11.0	1.0	0.0	0.0	9
+11	Kuwait	235	0.0	0.0	0.0	1.0	9
+12	Oman	167	15.0	0.0	0.0	0.0	9
+13	Afghanistan	114	8.0	4.0	2.0	0.0	9
+14	Djibouti	15	2.0	0.0	0.0	0.0	9
+15	Sudan	5	2.0	1.0	0.0	0.0	9
+16	Syrian Arab Republic	5	0.0	0.0	0.0	3.0	9
+17	Libya	3	2.0	0.0	0.0	0.0	9
+18	Somalia	3	0.0	0.0	0.0	2.0	9
+19	"occupied Palestinianterritory"	104	7.0	1.0	0.0	0.0	9
+20	"United States ofAmerica"	103321	18093.0	1668.0	425.0	0.0	9
+21	Canada	4757	739.0	55.0	16.0	0.0	9
+22	Brazil	3417	502.0	92.0	15.0	0.0	9
+23	Chile	1909	299.0	6.0	1.0	0.0	9
+24	Ecuador	1823	228.0	48.0	12.0	0.0	9
+25	Panama	786	112.0	14.0	5.0	0.0	9
+26	Mexico	717	128.0	12.0	4.0	0.0	9
+27	Argentina	690	101.0	17.0	5.0	0.0	9
+28	Peru	635	55.0	11.0	2.0	0.0	9
+29	Dominican Republic	581	0.0	20.0	0.0	1.0	9
+30	Colombia	539	48.0	6.0	0.0	0.0	9
+31	Uruguay	274	36.0	0.0	0.0	0.0	9
+32	Costa Rica	263	32.0	2.0	0.0	0.0	9
+33	Cuba	119	39.0	3.0	1.0	0.0	9
+34	"Venezuela (BolivarianRepublic of)"	113	7.0	2.0	2.0	0.0	9
+35	"Bolivia (PlurinationalState of)"	74	13.0	0.0	0.0	0.0	9
+36	Trinidad and Tobago	74	8.0	2.0	0.0	0.0	9
+37	Honduras	67	0.0	1.0	0.0	1.0	9
+38	Paraguay	56	4.0	3.0	0.0	0.0	9
+39	Guatemala	32	7.0	1.0	0.0	0.0	9
+40	Jamaica	30	4.0	1.0	0.0	0.0	9
+41	Barbados	24	0.0	0.0	0.0	1.0	9
+42	El Salvador	19	6.0	0.0	0.0	0.0	9
+43	Dominica	11	0.0	0.0	0.0	2.0	9
+44	Bahamas	10	1.0	0.0	0.0	0.0	9
+45	Haiti	8	0.0	0.0	0.0	3.0	9
+0	China	82447	106	3310	4	0	10
+1	Republic of Korea	9661	78	158	6	0	10
+2	Australia	3966	0	16	0	1	10
+3	Malaysia	2470	150	34	7	0	10
+4	Japan	1866	173	54	2	0	10
+5	Philippines	1418	343	71	3	0	10
+6	Singapore	844	42	3	1	0	10
+7	New Zealand	552	76	1	0	0	10
+8	Viet Nam	188	9	0	0	0	10
+9	Brunei Darussalam	126	6	1	0	0	10
+10	Cambodia	103	1	0	0	0	10
+11	Mongolia	12	0	0	0	2	10
+12	Democratic Republic	8	2	0	0	0	10
+13	Fiji	5	0	0	0	4	10
+14	Papua New Guinea	1	0	0	0	9	10
+15	Guam	56	0	1	0	1	10
+16	French Polynesia	35	1	0	0	0	10
+17	New Caledonia	15	0	0	0	2	10
+18	the)	2	0	0	0	1	10
+19	Italy	97689	5217	10781	758	0	10
+20	Spain	78797	6549	6528	838	0	10
+21	Germany	57298	4751	455	66	0	10
+22	France	39642	2497	2602	291	0	10
+23	The United Kingdom	19526	2433	1228	209	0	10
+24	Switzerland	14274	1122	257	22	0	10
+25	Netherlands	10866	1104	771	132	0	10
+26	Belgium	10836	1702	431	78	0	10
+27	Turkey	9271	1869	131	23	0	10
+28	Austria	8813	522	86	18	0	10
+29	Portugal	5962	792	119	19	0	10
+30	Israel	4247	382	15	0	0	10
+31	Norway	4102	257	22	2	0	10
+32	Sweden	3700	253	110	8	0	10
+33	Czechia	2829	166	16	5	0	10
+34	Ireland	2615	200	46	10	0	10
+35	Denmark	2395	194	72	7	0	10
+36	Luxembourg	1950	119	21	3	0	10
+37	Poland	1862	224	22	4	0	10
+0	Russian Federation	1534	0.0	10.0	2.0	1.0	10
+1	Finland	1218	0.0	11.0	2.0	1.0	10
+2	Greece	1156	95.0	38.0	6.0	0.0	10
+3	Iceland	1020	57.0	2.0	0.0	0.0	10
+4	Serbia	741	82.0	13.0	3.0	0.0	10
+5	Slovenia	730	39.0	11.0	2.0	0.0	10
+6	Croatia	713	56.0	6.0	1.0	0.0	10
+7	Estonia	679	39.0	3.0	2.0	0.0	10
+8	Lithuania	484	90.0	7.0	0.0	0.0	10
+9	Armenia	482	58.0	3.0	0.0	0.0	10
+10	Ukraine	480	62.0	11.0	2.0	0.0	10
+11	Hungary	447	39.0	15.0	2.0	0.0	10
+12	Latvia	376	71.0	0.0	0.0	0.0	10
+13	Bulgaria	346	15.0	8.0	1.0	0.0	10
+14	Andorra	341	20.0	6.0	2.0	0.0	10
+15	Slovakia	336	41.0	0.0	0.0	0.0	10
+16	"Bosnia andHerzegovina"	325	56.0	6.0	0.0	0.0	10
+17	Kazakhstan	294	29.0	1.0	0.0	0.0	10
+18	Republic of Moldova	263	32.0	2.0	0.0	0.0	10
+19	North Macedonia	259	18.0	6.0	2.0	0.0	10
+20	San Marino	229	1.0	24.0	2.0	0.0	10
+21	Albania	223	11.0	10.0	0.0	0.0	10
+22	Cyprus	214	35.0	6.0	1.0	0.0	10
+23	Azerbaijan	190	26.0	4.0	0.0	0.0	10
+24	Malta	151	12.0	0.0	0.0	0.0	10
+25	Uzbekistan	145	12.0	2.0	0.0	0.0	10
+26	Georgia	98	8.0	0.0	0.0	0.0	10
+27	Belarus	152	58.0	0.0	0.0	0.0	10
+28	Montenegro	85	3.0	1.0	0.0	0.0	10
+29	Kyrgyzstan	84	0.0	0.0	0.0	1.0	10
+30	Liechtenstein	62	1.0	0.0	0.0	0.0	10
+31	Monaco	46	27.0	0.0	0.0	0.0	10
+32	Holy See	6	2.0	0.0	0.0	0.0	10
+33	Faroe Islands	159	4.0	0.0	0.0	0.0	10
+34	Kosovo[1]	94	3.0	1.0	0.0	0.0	10
+35	Gibraltar	65	9.0	0.0	0.0	0.0	10
+36	Jersey	63	2.0	2.0	1.0	0.0	10
+37	Isle of Man	42	10.0	0.0	0.0	0.0	10
+38	Guernsey	39	0.0	0.0	0.0	1.0	10
+39	Greenland	10	0.0	0.0	0.0	1.0	10
+40	Thailand	1524	136.0	9.0	2.0	0.0	10
+41	Indonesia	1285	130.0	114.0	12.0	0.0	10
+42	India	1071	92.0	29.0	4.0	0.0	10
+43	Sri Lanka	120	14.0	1.0	1.0	0.0	10
+44	Bangladesh	49	1.0	5.0	0.0	0.0	10
+45	Maldives	17	1.0	0.0	0.0	0.0	10
+46	Myanmar	8	0.0	0.0	0.0	1.0	10
+47	Nepal	5	0.0	0.0	0.0	1.0	10
+48	Bhutan	4	1.0	0.0	0.0	0.0	10
+49	Timor-Leste	1	0.0	0.0	0.0	9.0	10
+0	"Iran (Islamic Republicof)"	38309	2901.0	2640.0	123.0	0.0	10
+1	Pakistan	1625	99.0	18.0	5.0	0.0	10
+2	Saudi Arabia	1299	96.0	8.0	4.0	0.0	10
+3	Qatar	634	44.0	2.0	1.0	0.0	10
+4	Egypt	609	33.0	40.0	4.0	0.0	10
+5	United Arab Emirates	570	102.0	3.0	1.0	0.0	10
+6	Iraq	547	41.0	42.0	0.0	0.0	10
+7	Morocco	516	79.0	27.0	1.0	0.0	10
+8	Bahrain	515	39.0	4.0	0.0	0.0	10
+9	Lebanon	438	26.0	10.0	2.0	0.0	10
+10	Tunisia	312	34.0	8.0	0.0	0.0	10
+11	Jordan	259	13.0	3.0	2.0	0.0	10
+12	Kuwait	255	20.0	0.0	0.0	0.0	10
+13	Oman	167	0.0	0.0	0.0	1.0	10
+14	Afghanistan	114	0.0	4.0	0.0	1.0	10
+15	Djibouti	19	4.0	0.0	0.0	0.0	10
+16	Syrian Arab Republic	9	4.0	1.0	1.0	0.0	10
+17	Libya	8	5.0	0.0	0.0	0.0	10
+18	Sudan	6	1.0	2.0	1.0	0.0	10
+19	Somalia	3	0.0	0.0	0.0	3.0	10
+20	"occupied Palestinianterritory"	115	11.0	1.0	0.0	0.0	10
+21	"United States ofAmerica"	122653	19332.0	2112.0	444.0	0.0	10
+22	Canada	5655	898.0	61.0	6.0	0.0	10
+23	Brazil	3904	487.0	114.0	22.0	0.0	10
+24	Chile	1909	0.0	6.0	0.0	1.0	10
+25	Ecuador	1835	12.0	48.0	0.0	0.0	10
+26	Panama	901	115.0	17.0	3.0	0.0	10
+27	Mexico	848	131.0	16.0	4.0	0.0	10
+28	Argentina	745	55.0	19.0	2.0	0.0	10
+29	Peru	671	36.0	11.0	0.0	0.0	10
+30	Colombia	608	69.0	6.0	0.0	0.0	10
+31	Dominican Republic	581	0.0	20.0	0.0	2.0	10
+32	Uruguay	303	29.0	0.0	0.0	0.0	10
+33	Costa Rica	295	32.0	2.0	0.0	0.0	10
+34	Cuba	119	0.0	3.0	0.0	1.0	10
+35	"Venezuela (BolivarianRepublic of)"	113	0.0	2.0	0.0	1.0	10
+36	Honduras	110	43.0	2.0	1.0	0.0	10
+37	Trinidad and Tobago	76	2.0	3.0	1.0	0.0	10
+38	"Bolivia (PlurinationalState of)"	74	0.0	0.0	0.0	1.0	10
+39	Paraguay	59	3.0	3.0	0.0	0.0	10
+40	Guatemala	34	2.0	1.0	0.0	0.0	10
+41	Jamaica	32	2.0	1.0	0.0	0.0	10
+42	Barbados	26	2.0	0.0	0.0	0.0	10
+43	El Salvador	24	5.0	0.0	0.0	0.0	10
+44	Haiti	15	7.0	0.0	0.0	0.0	10
+45	Dominica	11	0.0	0.0	0.0	3.0	10
+0	China	82545	98	3314	4	0	11
+1	Republic of Korea	9786	125	162	4	0	11
+2	Australia	4359	393	18	2	0	11
+3	Malaysia	2626	156	37	3	0	11
+4	Japan	1953	87	56	2	0	11
+5	Philippines	1546	128	78	7	0	11
+6	Singapore	879	35	3	0	0	11
+7	New Zealand	600	48	1	0	0	11
+8	Viet Nam	203	15	0	0	0	11
+9	Brunei Darussalam	127	1	1	0	0	11
+10	Cambodia	107	4	0	0	0	11
+11	Mongolia	12	0	0	0	3	11
+12	Democratic Republic	8	0	0	0	1	11
+13	Fiji	5	0	0	0	5	11
+14	Papua New Guinea	1	0	0	0	10	11
+15	Guam	58	2	1	0	0	11
+16	French Polynesia	36	1	0	0	0	11
+17	New Caledonia	15	0	0	0	3	11
+18	the)	2	0	0	0	2	11
+19	Italy	101739	4050	11591	810	0	11
+20	Spain	85195	6398	7340	812	0	11
+21	Germany	61913	4615	583	128	0	11
+22	France	43977	4335	3017	415	0	11
+23	The United Kingdom	22145	2619	1408	180	0	11
+24	Switzerland	15412	1138	295	38	0	11
+25	Belgium	11899	1063	513	82	0	11
+26	Netherlands	11750	884	864	93	0	11
+27	Turkey	10827	1556	168	37	0	11
+28	Austria	9618	805	108	22	0	11
+29	Portugal	6408	446	140	21	0	11
+30	Israel	4831	584	17	2	0	11
+31	Norway	4226	124	26	4	0	11
+32	Sweden	4028	328	146	36	0	11
+33	Czechia	3002	173	24	8	0	11
+34	Ireland	2910	295	54	8	0	11
+35	Denmark	2577	182	77	5	0	11
+36	Poland	2055	193	31	9	0	11
+37	Luxembourg	1988	38	22	1	0	11
+0	Russian Federation	1837	303.0	9.0	0.0	0.0	11
+1	Finland	1313	95.0	13.0	2.0	0.0	11
+2	Greece	1212	56.0	43.0	5.0	0.0	11
+3	Iceland	1086	66.0	2.0	0.0	0.0	11
+4	Croatia	790	77.0	6.0	0.0	0.0	11
+5	Serbia	785	44.0	13.0	0.0	0.0	11
+6	Slovenia	763	33.0	11.0	0.0	0.0	11
+7	Estonia	715	36.0	3.0	0.0	0.0	11
+8	Ukraine	549	69.0	13.0	2.0	0.0	11
+9	Lithuania	484	0.0	7.0	0.0	1.0	11
+10	Armenia	482	0.0	3.0	0.0	1.0	11
+11	Hungary	447	0.0	15.0	0.0	1.0	11
+12	Latvia	376	0.0	0.0	0.0	1.0	11
+13	Andorra	370	29.0	8.0	2.0	0.0	11
+14	"Bosnia andHerzegovina"	359	34.0	9.0	3.0	0.0	11
+15	Bulgaria	359	13.0	8.0	0.0	0.0	11
+16	Slovakia	336	0.0	0.0	0.0	1.0	11
+17	Kazakhstan	312	18.0	1.0	0.0	0.0	11
+18	Republic of Moldova	298	35.0	2.0	0.0	0.0	11
+19	North Macedonia	285	26.0	7.0	1.0	0.0	11
+20	Azerbaijan	273	83.0	4.0	0.0	0.0	11
+21	Cyprus	230	16.0	7.0	1.0	0.0	11
+22	San Marino	230	1.0	25.0	1.0	0.0	11
+23	Albania	223	0.0	11.0	1.0	1.0	11
+24	Malta	156	5.0	0.0	0.0	0.0	11
+25	Belarus	152	0.0	0.0	0.0	1.0	11
+26	Uzbekistan	149	4.0	2.0	0.0	0.0	11
+27	Kyrgyzstan	107	23.0	0.0	0.0	0.0	11
+28	Georgia	103	5.0	0.0	0.0	0.0	11
+29	Montenegro	91	6.0	1.0	0.0	0.0	11
+30	Liechtenstein	64	2.0	0.0	0.0	0.0	11
+31	Monaco	49	3.0	0.0	0.0	0.0	11
+32	Holy See	6	0.0	0.0	0.0	1.0	11
+33	Faroe Islands	168	9.0	0.0	0.0	0.0	11
+34	Kosovo[1]	106	12.0	1.0	0.0	0.0	11
+35	Gibraltar	69	4.0	0.0	0.0	0.0	11
+36	Jersey	63	0.0	2.0	0.0	1.0	11
+37	Guernsey	45	6.0	0.0	0.0	0.0	11
+38	Isle of Man	42	0.0	0.0	0.0	1.0	11
+39	Greenland	10	0.0	0.0	0.0	2.0	11
+40	Thailand	1524	0.0	9.0	0.0	1.0	11
+41	Indonesia	1414	129.0	122.0	8.0	0.0	11
+42	India	1071	0.0	29.0	0.0	1.0	11
+43	Sri Lanka	120	0.0	1.0	0.0	1.0	11
+44	Bangladesh	49	0.0	5.0	0.0	1.0	11
+45	Maldives	17	0.0	0.0	0.0	1.0	11
+46	Myanmar	10	2.0	0.0	0.0	0.0	11
+47	Nepal	5	0.0	0.0	0.0	2.0	11
+48	Bhutan	4	0.0	0.0	0.0	1.0	11
+49	Timor-Leste	1	0.0	0.0	0.0	10.0	11
+0	"Iran (Islamic Republicof)"	41495	3186.0	2757.0	117.0	0.0	11
+1	Pakistan	1865	240.0	25.0	7.0	0.0	11
+2	Saudi Arabia	1453	154.0	8.0	0.0	0.0	11
+3	Qatar	693	59.0	1.0	0.0	0.0	11
+4	Egypt	656	47.0	41.0	1.0	0.0	11
+5	Iraq	630	83.0	46.0	4.0	0.0	11
+6	United Arab Emirates	611	41.0	5.0	2.0	0.0	11
+7	Morocco	574	58.0	33.0	6.0	0.0	11
+8	Bahrain	515	0.0	4.0	0.0	1.0	11
+9	Lebanon	446	8.0	11.0	1.0	0.0	11
+10	Tunisia	362	50.0	9.0	1.0	0.0	11
+11	Jordan	268	9.0	5.0	2.0	0.0	11
+12	Kuwait	266	11.0	0.0	0.0	0.0	11
+13	Oman	179	12.0	0.0	0.0	0.0	11
+14	Afghanistan	166	52.0	4.0	0.0	0.0	11
+15	Djibouti	26	7.0	0.0	0.0	0.0	11
+16	Syrian Arab Republic	10	1.0	2.0	1.0	0.0	11
+17	Libya	8	0.0	0.0	0.0	1.0	11
+18	Sudan	6	0.0	2.0	0.0	1.0	11
+19	Somalia	3	0.0	0.0	0.0	4.0	11
+20	"occupied Palestinianterritory"	117	2.0	1.0	0.0	0.0	11
+21	"United States ofAmerica"	140640	17987.0	2398.0	286.0	0.0	11
+22	Canada	6317	662.0	66.0	5.0	0.0	11
+23	Brazil	4256	352.0	136.0	22.0	0.0	11
+24	Chile	2449	540.0	8.0	2.0	0.0	11
+25	Ecuador	1962	127.0	60.0	12.0	0.0	11
+26	Mexico	993	145.0	20.0	4.0	0.0	11
+27	Panama	989	88.0	24.0	7.0	0.0	11
+28	Dominican Republic	901	320.0	42.0	22.0	0.0	11
+29	Peru	852	181.0	11.0	0.0	0.0	11
+30	Argentina	820	75.0	20.0	1.0	0.0	11
+31	Colombia	702	94.0	10.0	4.0	0.0	11
+32	Costa Rica	314	19.0	2.0	0.0	0.0	11
+33	Uruguay	309	6.0	0.0	0.0	0.0	11
+34	Cuba	170	51.0	4.0	1.0	0.0	11
+35	Honduras	139	29.0	2.0	0.0	0.0	11
+36	"Venezuela (BolivarianRepublic of)"	129	16.0	3.0	1.0	0.0	11
+37	"Bolivia (PlurinationalState of)"	97	23.0	5.0	5.0	0.0	11
+38	Trinidad and Tobago	82	6.0	3.0	0.0	0.0	11
+39	Paraguay	64	5.0	3.0	0.0	0.0	11
+40	Guatemala	36	2.0	1.0	0.0	0.0	11
+41	Jamaica	36	4.0	1.0	0.0	0.0	11
+42	Barbados	33	7.0	0.0	0.0	0.0	11
+43	El Salvador	30	6.0	0.0	0.0	0.0	11
+44	Haiti	15	0.0	0.0	0.0	1.0	11
+45	Bahamas	14	4.0	0.0	0.0	0.0	11
+0	China	82631	86	3321	7	0	12
+1	Republic of Korea	9887	101	165	3	0	12
+2	Australia	4707	348	20	2	0	12
+3	Malaysia	2766	140	43	6	0	12
+4	Japan	2178	225	57	1	0	12
+5	Philippines	2084	538	88	10	0	12
+6	Singapore	926	47	3	0	0	12
+7	New Zealand	647	47	1	0	0	12
+8	Viet Nam	207	4	0	0	0	12
+9	Brunei Darussalam	129	2	1	0	0	12
+10	Cambodia	109	2	0	0	0	12
+11	Mongolia	12	0	0	0	4	12
+12	Lao People's	9	1	0	0	0	12
+13	Fiji	5	0	0	0	6	12
+14	Papua New Guinea	1	0	0	0	11	12
+15	Guam	69	11	2	1	0	12
+16	French Polynesia	37	1	0	0	0	12
+17	New Caledonia	16	1	0	0	0	12
+18	Northern Mariana	2	0	0	0	3	12
+19	Italy	105792	4053	12430	839	0	12
+20	Spain	94417	9222	8189	849	0	12
+21	Germany	67366	5453	732	149	0	12
+22	France	51477	7500	3514	497	0	12
+23	The United Kingdom	25154	3009	1789	381	0	12
+24	Switzerland	16108	696	373	78	0	12
+25	Turkey	13531	2704	214	46	0	12
+26	Belgium	12775	876	705	192	0	12
+27	Netherlands	12595	845	1039	175	0	12
+28	Austria	10182	564	128	20	0	12
+29	Portugal	7443	1035	160	20	0	12
+30	Israel	5129	298	21	4	0	12
+31	Norway	4447	221	28	2	0	12
+32	Sweden	4435	407	180	34	0	12
+33	Czechia	3308	306	31	7	0	12
+0	Denmark	2860	283.0	90.0	13.0	0.0	12
+1	Russian Federation	2337	500.0	17.0	8.0	0.0	12
+2	Poland	2311	256.0	33.0	2.0	0.0	12
+3	Romania	2245	293.0	69.0	25.0	0.0	12
+4	Luxembourg	2178	190.0	23.0	1.0	0.0	12
+5	Finland	1384	71.0	17.0	4.0	0.0	12
+6	Greece	1314	102.0	49.0	6.0	0.0	12
+7	Iceland	1135	49.0	2.0	0.0	0.0	12
+8	Serbia	900	115.0	13.0	0.0	0.0	12
+9	Croatia	867	77.0	6.0	0.0	0.0	12
+10	Slovenia	814	51.0	13.0	2.0	0.0	12
+11	Estonia	745	30.0	4.0	1.0	0.0	12
+12	Ukraine	669	120.0	17.0	4.0	0.0	12
+13	Lithuania	533	49.0	7.0	0.0	0.0	12
+14	Armenia	532	50.0	3.0	0.0	0.0	12
+15	Hungary	492	45.0	16.0	1.0	0.0	12
+16	"Bosnia andHerzegovina"	413	54.0	12.0	3.0	0.0	12
+17	Bulgaria	399	40.0	8.0	0.0	0.0	12
+18	Latvia	398	22.0	0.0	0.0	0.0	12
+19	Andorra	376	6.0	12.0	4.0	0.0	12
+20	Slovakia	363	27.0	0.0	0.0	0.0	12
+21	Republic of Moldova	353	55.0	3.0	1.0	0.0	12
+22	Kazakhstan	348	36.0	2.0	1.0	0.0	12
+23	North Macedonia	329	44.0	9.0	2.0	0.0	12
+24	Azerbaijan	298	25.0	5.0	1.0	0.0	12
+25	Cyprus	262	32.0	8.0	1.0	0.0	12
+26	Albania	243	20.0	13.0	2.0	0.0	12
+27	San Marino	236	6.0	26.0	1.0	0.0	12
+28	Uzbekistan	173	24.0	2.0	0.0	0.0	12
+29	Malta	167	11.0	0.0	0.0	0.0	12
+30	Belarus	152	0.0	0.0	0.0	2.0	12
+31	Georgia	115	12.0	0.0	0.0	0.0	12
+32	Kyrgyzstan	111	4.0	0.0	0.0	0.0	12
+33	Montenegro	105	14.0	2.0	1.0	0.0	12
+34	Liechtenstein	68	4.0	0.0	0.0	0.0	12
+35	Monaco	52	3.0	0.0	0.0	0.0	12
+36	Holy See	6	0.0	0.0	0.0	2.0	12
+37	Faroe Islands	169	1.0	0.0	0.0	0.0	12
+38	Kosovo[1]	112	6.0	1.0	0.0	0.0	12
+39	Gibraltar	69	0.0	0.0	0.0	1.0	12
+40	Jersey	63	0.0	2.0	0.0	2.0	12
+41	Guernsey	60	15.0	1.0	1.0	0.0	12
+42	Isle of Man	52	10.0	0.0	0.0	0.0	12
+43	Greenland	10	0.0	0.0	0.0	3.0	12
+44	Thailand	1771	247.0	12.0	3.0	0.0	12
+45	India	1636	565.0	38.0	9.0	0.0	12
+0	Sri Lanka	143	23.0	2.0	1.0	0.0	12
+1	Bangladesh	54	5.0	6.0	1.0	0.0	12
+2	Maldives	18	1.0	0.0	0.0	0.0	12
+3	Myanmar	15	5.0	1.0	1.0	0.0	12
+4	Nepal	5	0.0	0.0	0.0	3.0	12
+5	Bhutan	4	0.0	0.0	0.0	2.0	12
+6	Timor-Leste	1	0.0	0.0	0.0	11.0	12
+7	"Iran (Islamic Republicof)"	44606	3111.0	2898.0	141.0	0.0	12
+8	Pakistan	2039	174.0	26.0	1.0	0.0	12
+9	Saudi Arabia	1563	110.0	10.0	2.0	0.0	12
+10	Qatar	781	88.0	2.0	1.0	0.0	12
+11	Egypt	710	54.0	46.0	5.0	0.0	12
+12	Iraq	694	64.0	50.0	4.0	0.0	12
+13	United Arab Emirates	664	53.0	6.0	1.0	0.0	12
+14	Morocco	638	64.0	36.0	3.0	0.0	12
+15	Bahrain	567	52.0	4.0	0.0	0.0	12
+16	Lebanon	463	17.0	12.0	1.0	0.0	12
+17	Tunisia	394	32.0	10.0	1.0	0.0	12
+18	Kuwait	289	23.0	0.0	0.0	0.0	12
+19	Jordan	274	6.0	5.0	0.0	0.0	12
+20	Oman	210	31.0	1.0	1.0	0.0	12
+21	Afghanistan	192	26.0	4.0	0.0	0.0	12
+22	Djibouti	31	5.0	0.0	0.0	0.0	12
+23	Libya	10	2.0	0.0	0.0	0.0	12
+24	Syrian Arab Republic	10	0.0	2.0	0.0	1.0	12
+25	Sudan	7	1.0	2.0	0.0	0.0	12
+26	Somalia	5	2.0	0.0	0.0	0.0	12
+27	"occupied Palestinianterritory"	134	17.0	1.0	0.0	0.0	12
+28	"United States ofAmerica"	163199	22559.0	2850.0	452.0	0.0	12
+29	Canada	7695	1378.0	89.0	23.0	0.0	12
+30	Brazil	4579	323.0	159.0	23.0	0.0	12
+31	Chile	2738	289.0	12.0	4.0	0.0	12
+32	Ecuador	2240	278.0	75.0	15.0	0.0	12
+33	Dominican Republic	1109	208.0	51.0	9.0	0.0	12
+34	Mexico	1094	101.0	28.0	8.0	0.0	12
+35	Peru	1065	213.0	24.0	13.0	0.0	12
+36	Panama	989	0.0	24.0	0.0	1.0	12
+37	Argentina	966	146.0	24.0	4.0	0.0	12
+38	Colombia	798	96.0	14.0	4.0	0.0	12
+39	Uruguay	320	11.0	1.0	1.0	0.0	12
+40	Costa Rica	314	0.0	2.0	0.0	1.0	12
+41	Cuba	186	16.0	6.0	2.0	0.0	12
+42	Honduras	139	0.0	2.0	0.0	1.0	12
